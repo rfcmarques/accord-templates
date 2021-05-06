@@ -18,8 +18,54 @@ import org.accordproject.cicero.contract.*
 import org.accordproject.cicero.runtime.*
 import org.accordproject.time.*
 import org.accordproject.money.*
-import org.accordproject.money.MonetaryAmount
 
+
+/*
+ * Esta função define o valor do pagamento que será efetuado.
+ * O valor será sempre diferente consoante o valor de pontos atribuído.
+ */
+define function definePayment(points:Double,amount:Double) : MonetaryAmount {
+  let finalValue = 
+    if points >= 99.0
+    then amount
+    else if points >= 95.0 and points < 99.0
+    then amount*0.9
+    else 0.0;
+
+    let monetaryAmount = MonetaryAmount{
+        doubleValue : finalValue,
+        currencyCode: EUR
+    };
+
+    return monetaryAmount
+}
+
+/*
+ * Esta função serve para a criação de uma obrigação de pagamento .
+ * Esta função recebe um contrato, um provider, um consumer e um valor monetário.
+ * Retorna uma PaymentObligation que utiliza os dados recebidos.
+*/
+define function createPaymentObligation(
+    acontract:AccordContract,
+    serviceProvider:AccordParty,
+    serviceConsumer:AccordParty,
+    amount: MonetaryAmount
+  ) : PaymentObligation {
+  return
+    PaymentObligation{
+      contract: acontract,
+      promisor: some(serviceProvider),
+      promisee: some(serviceConsumer),
+      deadline: none,
+      amount: amount,
+      description: "Pagamento efetuado por " ++ serviceProvider.partyId ++ " a " ++ serviceConsumer.partyId
+    }
+}
+
+define function getNextRenewalDate(finaldate:DateTime,duration:Period) : String {
+  return
+    format(addPeriod(finaldate, duration), "DD/MM/YYYY")
+}
 
 contract MyLogic over MyContract {
   // Simple Clause
@@ -30,36 +76,21 @@ contract MyLogic over MyContract {
     else throw ErgoErrorResponse{ message: "A pontuação dada tem que se encontrar no intervalo de 0 a 100" };
 
     info(format(addPeriod(contract.contractDate, contract.duration), "DD/MM/YYYY"));
+    info(definePayment(request.slapoints,contract.amount));
 
-    if request.slapoints >= 99.0 then
-     emit PaymentObligation{
-      contract : contract,
-      promisor : some(contract.Employer),
-      promisee : some(contract.Employee),
-      amount : MonetaryAmount{ doubleValue: contract.amount, currencyCode: EUR },
-      deadline : none,
-      description : "Pagamento efetuado por " ++ contract.Employer.partyId ++ " a " ++ contract.Employee.partyId
-      };
+    if request.slapoints >= 95.0 then
+     emit
+      createPaymentObligation(
+        contract,
+        contract.Employer,
+        contract.Employee,
+        definePayment(request.slapoints,contract.amount));
+
      return MyResponse{ 
        paymentConfirmation: "O trimestre foi pago na totalidade",
-       contractInfo: "O contrato foi renovado e termina a " ++ format(addPeriod(contract.contractDate, contract.duration), "DD/MM/YYYY"),
-       contractEnd: format(addPeriod(contract.contractDate, contract.duration), "DD/MM/YYYY")
+       contractInfo: "O contrato foi renovado e termina a " ++ getNextRenewalDate(contract.contractDate, contract.duration),
+       contractEnd: getNextRenewalDate(contract.contractDate, contract.duration)
        }
-
-    else if request.slapoints < 99.0 and request.slapoints >= 95.0 then
-     emit PaymentObligation{
-      contract : contract,
-      promisor : some(contract.Employer),
-      promisee : some(contract.Employee),
-      amount : MonetaryAmount{ doubleValue: (contract.amount * 0.9), currencyCode: EUR },
-      deadline : none,
-      description : "Pagamento efetuado por " ++ contract.Employer.partyId ++ " a " ++ contract.Employee.partyId
-      };
-     return MyResponse{ 
-       paymentConfirmation: "O trimestre foi pago com um desconto",
-       contractInfo: "O contrato foi renovado e termina a " ++ format(addPeriod(contract.contractDate, contract.duration), "DD/MM/YYYY"),
-       contractEnd: format(addPeriod(contract.contractDate, contract.duration), "DD/MM/YYYY")
-     }
 
     else 
      return MyResponse{ 
