@@ -1,0 +1,2741 @@
+10:35:49 - [32minfo[39m: Using current directory as template folder
+10:35:49 - [32minfo[39m: Loading a default text/sample.md file.
+10:35:49 - [34mdebug[39m: loadFileContents
+10:35:49 - [34mdebug[39m: loadFileBuffer
+10:35:49 - [34mdebug[39m: loadFileContents
+10:35:49 - [34mdebug[39m: loadFileContents
+10:35:49 - [34mdebug[39m: fromDirectory
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFileContents
+10:35:49 - [34mdebug[39m: fromDirectory
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFilesContents
+10:35:49 - [34mdebug[39m: loadFileContents
+10:35:50 - [34mdebug[39m: fromDirectory
+10:35:50 - [34mdebug[39m: loadFileContents
+10:35:50 - [34mdebug[39m: fromDirectory
+10:35:50 - [34mdebug[39m: fromDirectory
+10:35:50 - [34mdebug[39m: loadFilesContents
+10:35:50 - [34mdebug[39m: loadFilesContents
+10:35:50 - [34mdebug[39m: loadFilesContents
+10:35:50 - [34mdebug[39m: loadFilesContents
+10:35:50 - [34mdebug[39m: loadFilesContents
+10:35:50 - [34mdebug[39m: loadFilesContents
+10:35:50 - [34mdebug[39m: loadFileContents
+10:35:50 - [31merror[39m: Parse error at line 7 column 25
+O contrato tem inicio a "2021-04-19" e tem a duração de 3 meses.
+                        ^^^^^^^^^^^^^^^^^
+Expected: /(1[0-2])|0[1-9]/
+10:40:19 - [32minfo[39m: Using current directory as template folder
+10:40:19 - [32minfo[39m: Loading a default text/sample.md file.
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: loadFileBuffer
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: fromDirectory
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: fromDirectory
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFilesContents
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:19 - [34mdebug[39m: loadFileContents
+10:40:20 - [34mdebug[39m: fromDirectory
+10:40:20 - [34mdebug[39m: loadFileContents
+10:40:20 - [34mdebug[39m: fromDirectory
+10:40:20 - [34mdebug[39m: fromDirectory
+10:40:20 - [34mdebug[39m: loadFilesContents
+10:40:20 - [34mdebug[39m: loadFilesContents
+10:40:20 - [34mdebug[39m: loadFilesContents
+10:40:20 - [34mdebug[39m: loadFilesContents
+10:40:20 - [34mdebug[39m: loadFilesContents
+10:40:20 - [34mdebug[39m: loadFilesContents
+10:40:20 - [34mdebug[39m: loadFileContents
+10:40:20 - [31merror[39m: Parse error at line 7 column 25
+O contrato tem inicio a "2021-19-04" e tem a duração de 3 meses.
+                        ^^^^^^^^^^^^^^^^^
+Expected: /(1[0-2])|0[1-9]/
+10:41:06 - [32minfo[39m: Using current directory as template folder
+10:41:06 - [32minfo[39m: Loading a default text/sample.md file.
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: loadFileBuffer
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: fromDirectory
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: fromDirectory
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFilesContents
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:06 - [34mdebug[39m: loadFileContents
+10:41:07 - [34mdebug[39m: fromDirectory
+10:41:07 - [34mdebug[39m: loadFileContents
+10:41:07 - [34mdebug[39m: fromDirectory
+10:41:07 - [34mdebug[39m: fromDirectory
+10:41:07 - [34mdebug[39m: loadFilesContents
+10:41:07 - [34mdebug[39m: loadFilesContents
+10:41:07 - [34mdebug[39m: loadFilesContents
+10:41:07 - [34mdebug[39m: loadFilesContents
+10:41:07 - [34mdebug[39m: loadFilesContents
+10:41:07 - [34mdebug[39m: loadFilesContents
+10:41:07 - [34mdebug[39m: loadFileContents
+10:41:08 - [31merror[39m: Parse error at line 7 column 25
+O contrato tem inicio a "19/04/2021" e tem a duração de 3 meses.
+                        ^^^^^^^^^^^^^^^^^
+Expected: /(1[0-2])|0[1-9]/
+10:49:52 - [32minfo[39m: Using current directory as template folder
+10:49:52 - [32minfo[39m: Loading a default text/sample.md file.
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: loadFileBuffer
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: fromDirectory
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: fromDirectory
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFilesContents
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:52 - [34mdebug[39m: loadFileContents
+10:49:53 - [34mdebug[39m: fromDirectory
+10:49:53 - [34mdebug[39m: loadFileContents
+10:49:53 - [34mdebug[39m: fromDirectory
+10:49:53 - [34mdebug[39m: fromDirectory
+10:49:53 - [34mdebug[39m: loadFilesContents
+10:49:53 - [34mdebug[39m: loadFilesContents
+10:49:53 - [34mdebug[39m: loadFilesContents
+10:49:53 - [34mdebug[39m: loadFilesContents
+10:49:53 - [34mdebug[39m: loadFilesContents
+10:49:53 - [34mdebug[39m: loadFilesContents
+10:49:53 - [34mdebug[39m: loadFileContents
+10:49:54 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"contractId":"c666ce0d-0a33-476d-ab57-4eb7e25f8d8b"}
+10:49:54 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mc666ce0d-0a33-476d-ab57-4eb7e25f8d8b[39m[33m"[39m
+[33m}[39m
+11:10:33 - [32minfo[39m: Using current directory as template folder
+11:10:33 - [32minfo[39m: Loading a default text/sample.md file.
+11:10:33 - [32minfo[39m: Loading a default request.json file.
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: loadFileBuffer
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: fromDirectory
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: fromDirectory
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFilesContents
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:33 - [34mdebug[39m: fromDirectory
+11:10:33 - [34mdebug[39m: loadFileContents
+11:10:34 - [34mdebug[39m: fromDirectory
+11:10:34 - [34mdebug[39m: fromDirectory
+11:10:34 - [34mdebug[39m: loadFilesContents
+11:10:34 - [34mdebug[39m: loadFilesContents
+11:10:34 - [34mdebug[39m: loadFilesContents
+11:10:34 - [34mdebug[39m: loadFilesContents
+11:10:34 - [34mdebug[39m: loadFilesContents
+11:10:34 - [34mdebug[39m: loadFilesContents
+11:10:34 - [34mdebug[39m: loadFileContents
+11:10:34 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"contractId":"47dbe657-915f-440c-be83-d05e2fccd349"}
+11:10:34 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:10:34 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:10:34 - [31merror[39m: Unexpected properties for type org.digitalsign.simpleslarenewalexample.MyRequest: input
+11:10:48 - [32minfo[39m: Using current directory as template folder
+11:10:48 - [32minfo[39m: Loading a default text/sample.md file.
+11:10:48 - [32minfo[39m: Loading a default request.json file.
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: loadFileBuffer
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: fromDirectory
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: fromDirectory
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: fromDirectory
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:48 - [34mdebug[39m: fromDirectory
+11:10:48 - [34mdebug[39m: fromDirectory
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFilesContents
+11:10:48 - [34mdebug[39m: loadFileContents
+11:10:49 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"contractId":"a177c85f-e9f7-42dd-989b-504fbd325181"}
+11:10:49 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:10:49 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:10:49 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+11:10:49 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-dad177d5bf616c469047e034b714eafafabfd2ce444c90a4aa8cf2f12ca559ab[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m3[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mWorks[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m368eb32c-79f8-41f0-98a5-255c90feae52[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-15T10:10:49.599Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+11:24:05 - [32minfo[39m: Using current directory as template folder
+11:24:05 - [32minfo[39m: Loading a default text/sample.md file.
+11:24:05 - [32minfo[39m: Loading a default request.json file.
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: loadFileBuffer
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: fromDirectory
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: fromDirectory
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFilesContents
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:05 - [34mdebug[39m: loadFileContents
+11:24:06 - [34mdebug[39m: fromDirectory
+11:24:06 - [34mdebug[39m: loadFileContents
+11:24:06 - [34mdebug[39m: fromDirectory
+11:24:06 - [34mdebug[39m: fromDirectory
+11:24:06 - [34mdebug[39m: loadFilesContents
+11:24:06 - [34mdebug[39m: loadFilesContents
+11:24:06 - [34mdebug[39m: loadFilesContents
+11:24:06 - [34mdebug[39m: loadFilesContents
+11:24:06 - [34mdebug[39m: loadFilesContents
+11:24:06 - [34mdebug[39m: loadFilesContents
+11:24:06 - [34mdebug[39m: loadFileContents
+11:24:07 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"contractId":"85e79bab-b9af-43c2-853c-e462aec7d095"}
+11:24:07 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:24:07 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:24:07 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+11:24:07 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-887cd21487792d0e33e7f796384243b975e501af6391d95d7dbc46edc9d46ece[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m3[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mWorks[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m48c4bde7-14e3-4a27-b76e-2cee48688dd7[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-15T10:24:07.274Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m100[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#85e79bab-b9af-43c2-853c-e462aec7d095[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-15T10:24:07.275Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+09:40:37 - [32minfo[39m: Using current directory as template folder
+09:40:37 - [32minfo[39m: Loading a default text/sample.md file.
+09:40:37 - [34mdebug[39m: loadFileContents
+09:40:37 - [34mdebug[39m: loadFileBuffer
+09:40:37 - [34mdebug[39m: loadFileContents
+09:40:37 - [34mdebug[39m: loadFileContents
+09:40:37 - [34mdebug[39m: fromDirectory
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFileContents
+09:40:37 - [34mdebug[39m: fromDirectory
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:37 - [34mdebug[39m: loadFilesContents
+09:40:38 - [34mdebug[39m: loadFilesContents
+09:40:38 - [34mdebug[39m: loadFilesContents
+09:40:38 - [34mdebug[39m: loadFileContents
+09:40:38 - [34mdebug[39m: loadFileContents
+09:40:38 - [34mdebug[39m: loadFileContents
+09:40:38 - [34mdebug[39m: loadFileContents
+09:40:39 - [34mdebug[39m: fromDirectory
+09:40:39 - [34mdebug[39m: loadFileContents
+09:40:39 - [34mdebug[39m: fromDirectory
+09:40:39 - [34mdebug[39m: fromDirectory
+09:40:39 - [34mdebug[39m: loadFilesContents
+09:40:39 - [34mdebug[39m: loadFilesContents
+09:40:39 - [34mdebug[39m: loadFilesContents
+09:40:39 - [34mdebug[39m: loadFilesContents
+09:40:39 - [34mdebug[39m: loadFilesContents
+09:40:39 - [34mdebug[39m: loadFilesContents
+09:40:39 - [34mdebug[39m: loadFileContents
+09:40:39 - [31merror[39m: Parse error (at file logic/logic.ergo line 30 col 4). 
+    emit PaymentObligation{
+    ^^^^                   
+09:45:18 - [32minfo[39m: Using current directory as template folder
+09:45:18 - [32minfo[39m: Loading a default text/sample.md file.
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: loadFileBuffer
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: fromDirectory
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: fromDirectory
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFilesContents
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:18 - [34mdebug[39m: loadFileContents
+09:45:20 - [34mdebug[39m: fromDirectory
+09:45:20 - [34mdebug[39m: loadFileContents
+09:45:20 - [34mdebug[39m: fromDirectory
+09:45:20 - [34mdebug[39m: fromDirectory
+09:45:20 - [34mdebug[39m: loadFilesContents
+09:45:20 - [34mdebug[39m: loadFilesContents
+09:45:20 - [34mdebug[39m: loadFilesContents
+09:45:20 - [34mdebug[39m: loadFilesContents
+09:45:20 - [34mdebug[39m: loadFilesContents
+09:45:20 - [34mdebug[39m: loadFilesContents
+09:45:20 - [34mdebug[39m: loadFileContents
+09:45:20 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"681c2fd9-a9ec-47cf-85fc-097b12b6d691"}
+09:45:20 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m681c2fd9-a9ec-47cf-85fc-097b12b6d691[39m[33m"[39m
+[33m}[39m
+09:46:07 - [32minfo[39m: Using current directory as template folder
+09:46:07 - [32minfo[39m: Loading a default text/sample.md file.
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: loadFileBuffer
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: fromDirectory
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: fromDirectory
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFilesContents
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:07 - [34mdebug[39m: loadFileContents
+09:46:08 - [34mdebug[39m: fromDirectory
+09:46:08 - [34mdebug[39m: loadFileContents
+09:46:08 - [34mdebug[39m: fromDirectory
+09:46:08 - [34mdebug[39m: fromDirectory
+09:46:08 - [34mdebug[39m: loadFilesContents
+09:46:08 - [34mdebug[39m: loadFilesContents
+09:46:08 - [34mdebug[39m: loadFilesContents
+09:46:08 - [34mdebug[39m: loadFilesContents
+09:46:08 - [34mdebug[39m: loadFilesContents
+09:46:08 - [34mdebug[39m: loadFilesContents
+09:46:08 - [34mdebug[39m: loadFileContents
+09:46:08 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"c05bbd01-a1f8-4f89-ab2f-a82701091fe2"}
+09:46:08 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mc05bbd01-a1f8-4f89-ab2f-a82701091fe2[39m[33m"[39m
+[33m}[39m
+09:46:39 - [32minfo[39m: Using current directory as template folder
+09:46:39 - [32minfo[39m: Loading a default text/sample.md file.
+09:46:39 - [32minfo[39m: Loading a default request.json file.
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: loadFileBuffer
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: fromDirectory
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: fromDirectory
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFilesContents
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:39 - [34mdebug[39m: loadFileContents
+09:46:40 - [34mdebug[39m: fromDirectory
+09:46:40 - [34mdebug[39m: loadFileContents
+09:46:40 - [34mdebug[39m: fromDirectory
+09:46:40 - [34mdebug[39m: fromDirectory
+09:46:40 - [34mdebug[39m: loadFilesContents
+09:46:40 - [34mdebug[39m: loadFilesContents
+09:46:40 - [34mdebug[39m: loadFilesContents
+09:46:40 - [34mdebug[39m: loadFilesContents
+09:46:40 - [34mdebug[39m: loadFilesContents
+09:46:40 - [34mdebug[39m: loadFilesContents
+09:46:40 - [34mdebug[39m: loadFileContents
+09:46:41 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"b08d23dc-6643-4342-bee6-c7ea62594521"}
+09:46:41 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+09:46:41 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+09:46:41 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+09:46:41 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-c79f42777ccc5e38465f6dbf5aeb83a14b092208d4fb3c7cf1c1bd6761d5dac3[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m3[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mWorks[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mee5a0c09-d93e-4b5b-b75a-4bd175467afa[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T08:46:41.445Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m100[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#b08d23dc-6643-4342-bee6-c7ea62594521[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T08:46:41.446Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+10:07:17 - [32minfo[39m: Using current directory as template folder
+10:07:17 - [32minfo[39m: Loading a default text/sample.md file.
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: loadFileBuffer
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: fromDirectory
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: fromDirectory
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFilesContents
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:17 - [34mdebug[39m: loadFileContents
+10:07:18 - [34mdebug[39m: fromDirectory
+10:07:18 - [34mdebug[39m: loadFileContents
+10:07:18 - [34mdebug[39m: fromDirectory
+10:07:18 - [34mdebug[39m: fromDirectory
+10:07:18 - [34mdebug[39m: loadFilesContents
+10:07:18 - [34mdebug[39m: loadFilesContents
+10:07:18 - [34mdebug[39m: loadFilesContents
+10:07:18 - [34mdebug[39m: loadFilesContents
+10:07:18 - [34mdebug[39m: loadFilesContents
+10:07:18 - [34mdebug[39m: loadFilesContents
+10:07:18 - [34mdebug[39m: loadFileContents
+10:07:18 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"bc933b96-24a1-479c-bc29-369cf5ea3f6b"}
+10:07:18 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mbc933b96-24a1-479c-bc29-369cf5ea3f6b[39m[33m"[39m
+[33m}[39m
+10:07:23 - [32minfo[39m: Using current directory as template folder
+10:07:23 - [32minfo[39m: Loading a default text/sample.md file.
+10:07:23 - [32minfo[39m: Loading a default request.json file.
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: loadFileBuffer
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: fromDirectory
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: fromDirectory
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFilesContents
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:23 - [34mdebug[39m: loadFileContents
+10:07:24 - [34mdebug[39m: fromDirectory
+10:07:24 - [34mdebug[39m: loadFileContents
+10:07:24 - [34mdebug[39m: fromDirectory
+10:07:24 - [34mdebug[39m: fromDirectory
+10:07:24 - [34mdebug[39m: loadFilesContents
+10:07:24 - [34mdebug[39m: loadFilesContents
+10:07:24 - [34mdebug[39m: loadFilesContents
+10:07:24 - [34mdebug[39m: loadFilesContents
+10:07:24 - [34mdebug[39m: loadFilesContents
+10:07:24 - [34mdebug[39m: loadFilesContents
+10:07:24 - [34mdebug[39m: loadFileContents
+10:07:25 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"3439a8f2-25f4-4d61-810c-fe0c78971bdf"}
+10:07:25 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:07:25 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:07:25 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+10:07:25 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-8b1a62a5da643826b8437fa94bb310aa1b482152ed7155f74c5734b8216493a1[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m3[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mProbably Works[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mc4245772-bb96-40f8-8107-b669526b8a5f[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:07:25.572Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m100[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#3439a8f2-25f4-4d61-810c-fe0c78971bdf[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:07:25.573Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+10:11:40 - [32minfo[39m: Using current directory as template folder
+10:11:40 - [32minfo[39m: Loading a default text/sample.md file.
+10:11:40 - [32minfo[39m: Loading a default request.json file.
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: loadFileBuffer
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: fromDirectory
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: fromDirectory
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFilesContents
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:40 - [34mdebug[39m: loadFileContents
+10:11:41 - [34mdebug[39m: fromDirectory
+10:11:41 - [34mdebug[39m: loadFileContents
+10:11:41 - [34mdebug[39m: fromDirectory
+10:11:41 - [34mdebug[39m: fromDirectory
+10:11:41 - [34mdebug[39m: loadFilesContents
+10:11:41 - [34mdebug[39m: loadFilesContents
+10:11:41 - [34mdebug[39m: loadFilesContents
+10:11:41 - [34mdebug[39m: loadFilesContents
+10:11:41 - [34mdebug[39m: loadFilesContents
+10:11:41 - [34mdebug[39m: loadFilesContents
+10:11:41 - [34mdebug[39m: loadFileContents
+10:11:42 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"07a8a11b-07c9-4f75-99eb-c4410024be67"}
+10:11:42 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:11:42 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:11:42 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+10:11:42 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-eae209fc3c2df180a3cfdffb08c628592131820beaec1e18a49e3d864d7a1061[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m3[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mrip bro[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m9343effe-d050-43c2-8e79-abedd6e39b54[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:11:42.533Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m100[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#07a8a11b-07c9-4f75-99eb-c4410024be67[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:11:42.534Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+10:18:10 - [32minfo[39m: Using current directory as template folder
+10:18:10 - [32minfo[39m: Loading a default text/sample.md file.
+10:18:10 - [32minfo[39m: Loading a default request.json file.
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: loadFileBuffer
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: fromDirectory
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: fromDirectory
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFilesContents
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:10 - [34mdebug[39m: loadFileContents
+10:18:11 - [34mdebug[39m: fromDirectory
+10:18:11 - [34mdebug[39m: loadFileContents
+10:18:11 - [34mdebug[39m: fromDirectory
+10:18:11 - [34mdebug[39m: fromDirectory
+10:18:11 - [34mdebug[39m: loadFilesContents
+10:18:11 - [34mdebug[39m: loadFilesContents
+10:18:11 - [34mdebug[39m: loadFilesContents
+10:18:11 - [34mdebug[39m: loadFilesContents
+10:18:11 - [34mdebug[39m: loadFilesContents
+10:18:11 - [34mdebug[39m: loadFilesContents
+10:18:11 - [34mdebug[39m: loadFileContents
+10:18:12 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"1898b3c2-e02c-410a-bd55-3e22d1811ef9"}
+10:18:12 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:18:12 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:18:12 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+10:18:12 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-9b4ef484c3d578ae4aa56f42bcd7cf911234727a09113a9db710385159fd4951[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m3[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mrip bro[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m83db95dc-ccc0-4ea3-b9c5-d69deb9c9729[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:18:12.576Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m0[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#1898b3c2-e02c-410a-bd55-3e22d1811ef9[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:18:12.577Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+10:18:48 - [32minfo[39m: Using current directory as template folder
+10:18:48 - [32minfo[39m: Loading a default text/sample.md file.
+10:18:48 - [32minfo[39m: Loading a default request.json file.
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: loadFileBuffer
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: fromDirectory
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: fromDirectory
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFilesContents
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:48 - [34mdebug[39m: loadFileContents
+10:18:49 - [34mdebug[39m: fromDirectory
+10:18:49 - [34mdebug[39m: loadFileContents
+10:18:49 - [34mdebug[39m: fromDirectory
+10:18:49 - [34mdebug[39m: fromDirectory
+10:18:49 - [34mdebug[39m: loadFilesContents
+10:18:49 - [34mdebug[39m: loadFilesContents
+10:18:49 - [34mdebug[39m: loadFilesContents
+10:18:49 - [34mdebug[39m: loadFilesContents
+10:18:49 - [34mdebug[39m: loadFilesContents
+10:18:49 - [34mdebug[39m: loadFilesContents
+10:18:49 - [34mdebug[39m: loadFileContents
+10:18:49 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"3136a412-e1db-4509-a011-4392ef002381"}
+10:18:49 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:18:49 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:18:49 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+10:18:49 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-d4eab94d0c77520ea1bf500d9c80c4d5551467dbe3deaf764781da322f5606e6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m96[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mProbably Works[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m8259c29c-e191-4418-9b6d-f0539a74e7e2[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:18:49.883Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m160[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#3136a412-e1db-4509-a011-4392ef002381[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:18:49.884Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+10:20:05 - [32minfo[39m: Using current directory as template folder
+10:20:05 - [32minfo[39m: Loading a default text/sample.md file.
+10:20:05 - [32minfo[39m: Loading a default request.json file.
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: loadFileBuffer
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: fromDirectory
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: fromDirectory
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFilesContents
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:05 - [34mdebug[39m: loadFileContents
+10:20:06 - [34mdebug[39m: fromDirectory
+10:20:06 - [34mdebug[39m: loadFileContents
+10:20:06 - [34mdebug[39m: fromDirectory
+10:20:06 - [34mdebug[39m: fromDirectory
+10:20:06 - [34mdebug[39m: loadFilesContents
+10:20:06 - [34mdebug[39m: loadFilesContents
+10:20:06 - [34mdebug[39m: loadFilesContents
+10:20:06 - [34mdebug[39m: loadFilesContents
+10:20:06 - [34mdebug[39m: loadFilesContents
+10:20:06 - [34mdebug[39m: loadFilesContents
+10:20:06 - [34mdebug[39m: loadFileContents
+10:20:07 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"b9842cbd-d2f4-40aa-bd32-5fd11ea5b653"}
+10:20:07 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:20:07 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:20:07 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+10:20:07 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-c4bdb998f7fdae2eb3a15d6b891194396552963ca45065ab158358e552f92fd6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mWorks[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m8ec23d1d-a94a-4f76-a76e-0d746a8741f6[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:20:07.412Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mA[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#b9842cbd-d2f4-40aa-bd32-5fd11ea5b653[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:20:07.413Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+10:38:36 - [32minfo[39m: Using current directory as template folder
+10:38:36 - [32minfo[39m: Loading a default text/sample.md file.
+10:38:36 - [32minfo[39m: Loading a default request.json file.
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: loadFileBuffer
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: fromDirectory
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: fromDirectory
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFilesContents
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:36 - [34mdebug[39m: loadFileContents
+10:38:37 - [34mdebug[39m: fromDirectory
+10:38:37 - [34mdebug[39m: loadFileContents
+10:38:37 - [34mdebug[39m: fromDirectory
+10:38:37 - [34mdebug[39m: fromDirectory
+10:38:37 - [34mdebug[39m: loadFilesContents
+10:38:37 - [34mdebug[39m: loadFilesContents
+10:38:37 - [34mdebug[39m: loadFilesContents
+10:38:37 - [34mdebug[39m: loadFilesContents
+10:38:37 - [34mdebug[39m: loadFilesContents
+10:38:37 - [34mdebug[39m: loadFilesContents
+10:38:37 - [34mdebug[39m: loadFileContents
+10:38:38 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"931aacb9-6079-4766-a011-d6fc6507ed4a"}
+10:38:38 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+10:38:38 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+10:38:38 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+10:38:38 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-ed49fc087ebc408f375969042303a3897a4fa28a4afb3a100b31f05cba648930[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35me8f7a363-b4db-47e3-a82b-dd633c922348[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:38:38.584Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#931aacb9-6079-4766-a011-d6fc6507ed4a[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T09:38:38.585Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:22:46 - [32minfo[39m: Using current directory as template folder
+12:22:46 - [32minfo[39m: Loading a default text/sample.md file.
+12:22:46 - [32minfo[39m: Loading a default request.json file.
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: loadFileBuffer
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: fromDirectory
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: fromDirectory
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFilesContents
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:46 - [34mdebug[39m: loadFileContents
+12:22:47 - [34mdebug[39m: fromDirectory
+12:22:47 - [34mdebug[39m: loadFileContents
+12:22:47 - [34mdebug[39m: fromDirectory
+12:22:47 - [34mdebug[39m: fromDirectory
+12:22:47 - [34mdebug[39m: loadFilesContents
+12:22:47 - [34mdebug[39m: loadFilesContents
+12:22:47 - [34mdebug[39m: loadFilesContents
+12:22:47 - [34mdebug[39m: loadFilesContents
+12:22:47 - [34mdebug[39m: loadFilesContents
+12:22:47 - [34mdebug[39m: loadFilesContents
+12:22:47 - [34mdebug[39m: loadFileContents
+12:22:48 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"95a83a1f-5681-4b13-bd88-8057e57784d4"}
+12:22:48 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:22:48 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:22:48 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:22:48 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-aa98bf3f865b203ddb8c96d978448700b8256835531b713e136cf74c5e0ebef4[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m1b3131ee-cf20-4232-bc73-925062fbc295[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:22:48.579Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#95a83a1f-5681-4b13-bd88-8057e57784d4[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:22:48.580Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:23:09 - [32minfo[39m: Using current directory as template folder
+12:23:09 - [32minfo[39m: Loading a default text/sample.md file.
+12:23:09 - [32minfo[39m: Loading a default request.json file.
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: loadFileBuffer
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: fromDirectory
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: fromDirectory
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFilesContents
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:09 - [34mdebug[39m: loadFileContents
+12:23:10 - [34mdebug[39m: fromDirectory
+12:23:10 - [34mdebug[39m: loadFileContents
+12:23:10 - [34mdebug[39m: fromDirectory
+12:23:10 - [34mdebug[39m: fromDirectory
+12:23:10 - [34mdebug[39m: loadFilesContents
+12:23:10 - [34mdebug[39m: loadFilesContents
+12:23:10 - [34mdebug[39m: loadFilesContents
+12:23:10 - [34mdebug[39m: loadFilesContents
+12:23:10 - [34mdebug[39m: loadFilesContents
+12:23:10 - [34mdebug[39m: loadFilesContents
+12:23:10 - [34mdebug[39m: loadFileContents
+12:23:10 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"7659c24f-9474-4835-8dfc-40abe19ace6d"}
+12:23:10 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:23:10 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:23:10 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:23:10 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-f0dffeabb0dfe8282a7263c5a748b8e79466f9574a36089d17b9c63e86b39b3d[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m96[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago com um desconto[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m09f20e58-35a1-42a1-bfbe-f651b200bb13[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:23:10.877Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m180[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#7659c24f-9474-4835-8dfc-40abe19ace6d[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:23:10.878Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:24:24 - [32minfo[39m: Using current directory as template folder
+12:24:24 - [32minfo[39m: Loading a default text/sample.md file.
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileBuffer
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: fromDirectory
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: fromDirectory
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFilesContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:24 - [34mdebug[39m: loadFileContents
+12:24:25 - [34mdebug[39m: fromDirectory
+12:24:25 - [34mdebug[39m: loadFileContents
+12:24:25 - [34mdebug[39m: fromDirectory
+12:24:25 - [34mdebug[39m: fromDirectory
+12:24:25 - [34mdebug[39m: loadFilesContents
+12:24:25 - [34mdebug[39m: loadFilesContents
+12:24:25 - [34mdebug[39m: loadFilesContents
+12:24:25 - [34mdebug[39m: loadFilesContents
+12:24:25 - [34mdebug[39m: loadFilesContents
+12:24:25 - [34mdebug[39m: loadFilesContents
+12:24:25 - [34mdebug[39m: loadFileContents
+12:24:26 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"753307da-eb08-4cb3-9607-2acc09192829"}
+12:24:26 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m753307da-eb08-4cb3-9607-2acc09192829[39m[33m"[39m
+[33m}[39m
+12:44:02 - [32minfo[39m: Using current directory as template folder
+12:44:02 - [32minfo[39m: Loading a default text/sample.md file.
+12:44:02 - [32minfo[39m: Loading a default request.json file.
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: loadFileBuffer
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: fromDirectory
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: fromDirectory
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFilesContents
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:02 - [34mdebug[39m: loadFileContents
+12:44:03 - [34mdebug[39m: fromDirectory
+12:44:03 - [34mdebug[39m: loadFileContents
+12:44:03 - [34mdebug[39m: fromDirectory
+12:44:03 - [34mdebug[39m: fromDirectory
+12:44:03 - [34mdebug[39m: loadFilesContents
+12:44:03 - [34mdebug[39m: loadFilesContents
+12:44:03 - [34mdebug[39m: loadFilesContents
+12:44:03 - [34mdebug[39m: loadFilesContents
+12:44:03 - [34mdebug[39m: loadFilesContents
+12:44:03 - [34mdebug[39m: loadFilesContents
+12:44:03 - [34mdebug[39m: loadFileContents
+12:44:04 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"1b93644e-a0b1-4a7f-bd16-aa6fb18db15b"}
+12:44:04 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:44:04 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:44:04 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:44:04 - [31merror[39m: [Ergo] A pontuação dada tem que se encontrar no intervalo de 0 a 100
+12:49:08 - [32minfo[39m: Using current directory as template folder
+12:49:08 - [32minfo[39m: Loading a default text/sample.md file.
+12:49:08 - [32minfo[39m: Loading a default request.json file.
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: loadFileBuffer
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: fromDirectory
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: fromDirectory
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFilesContents
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:08 - [34mdebug[39m: loadFileContents
+12:49:09 - [34mdebug[39m: fromDirectory
+12:49:09 - [34mdebug[39m: loadFileContents
+12:49:09 - [34mdebug[39m: fromDirectory
+12:49:09 - [34mdebug[39m: fromDirectory
+12:49:09 - [34mdebug[39m: loadFilesContents
+12:49:09 - [34mdebug[39m: loadFilesContents
+12:49:09 - [34mdebug[39m: loadFilesContents
+12:49:09 - [34mdebug[39m: loadFilesContents
+12:49:09 - [34mdebug[39m: loadFilesContents
+12:49:09 - [34mdebug[39m: loadFilesContents
+12:49:09 - [34mdebug[39m: loadFileContents
+12:49:10 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"13c149fd-0189-4109-82be-5aeabb2d8eaf"}
+12:49:10 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:49:10 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:49:10 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:49:10 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-259c8a7b0c0ddd875c933a1f9ce59a0346fbfdc17010c759d1819a8351d733f5[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m10[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre não foi pago por má avaliação[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mf5d753d9-22a3-4742-8969-20e80167f001[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:49:10.190Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+12:51:08 - [32minfo[39m: Using current directory as template folder
+12:51:08 - [32minfo[39m: Loading a default text/sample.md file.
+12:51:08 - [32minfo[39m: Loading a default request.json file.
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: loadFileBuffer
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: fromDirectory
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: fromDirectory
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFilesContents
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:08 - [34mdebug[39m: loadFileContents
+12:51:09 - [34mdebug[39m: fromDirectory
+12:51:09 - [34mdebug[39m: loadFileContents
+12:51:09 - [34mdebug[39m: fromDirectory
+12:51:09 - [34mdebug[39m: fromDirectory
+12:51:09 - [34mdebug[39m: loadFilesContents
+12:51:09 - [34mdebug[39m: loadFilesContents
+12:51:09 - [34mdebug[39m: loadFilesContents
+12:51:09 - [34mdebug[39m: loadFilesContents
+12:51:09 - [34mdebug[39m: loadFilesContents
+12:51:09 - [34mdebug[39m: loadFilesContents
+12:51:09 - [34mdebug[39m: loadFileContents
+12:51:10 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"a115781c-62c8-4e52-8d7c-45b55ccfe7e5"}
+12:51:10 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:51:10 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:51:10 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:51:10 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-3a9e5ba849b73983477cd3a9370887792474f7b00d5240b43abec8053e0a9db7[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m96[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago com um desconto[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m8c67002a-f82e-4c96-9098-2ecf759791a3[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:51:10.542Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m180[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#a115781c-62c8-4e52-8d7c-45b55ccfe7e5[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T11:51:10.543Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+15:03:51 - [32minfo[39m: Using current directory as template folder
+15:03:51 - [32minfo[39m: Loading a default text/sample.md file.
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: loadFileBuffer
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: fromDirectory
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: fromDirectory
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: fromDirectory
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:51 - [34mdebug[39m: fromDirectory
+15:03:51 - [34mdebug[39m: fromDirectory
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFilesContents
+15:03:51 - [34mdebug[39m: loadFileContents
+15:03:52 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"a43428dd-3d74-42e2-af83-be5db3cd7d99"}
+15:03:52 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35ma43428dd-3d74-42e2-af83-be5db3cd7d99[39m[33m"[39m
+[33m}[39m
+15:05:02 - [32minfo[39m: Using current directory as template folder
+15:05:02 - [32minfo[39m: Loading a default text/sample.md file.
+15:05:02 - [32minfo[39m: Loading a default request.json file.
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: loadFileBuffer
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: fromDirectory
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: fromDirectory
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: fromDirectory
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:02 - [34mdebug[39m: fromDirectory
+15:05:02 - [34mdebug[39m: fromDirectory
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFilesContents
+15:05:02 - [34mdebug[39m: loadFileContents
+15:05:03 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"c4b163e3-61cf-4314-a9af-4ad70c719356"}
+15:05:03 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+15:05:03 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+15:05:03 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+15:05:03 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-22498ffe44161131a9c0f23697925bd482a7314969e2290b22937ca4b078827b[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m657e8acb-8504-4506-b5a1-65076bed3133[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T14:05:03.032Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#c4b163e3-61cf-4314-a9af-4ad70c719356[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T14:05:03.034Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+16:12:37 - [32minfo[39m: Using current directory as template folder
+16:12:37 - [32minfo[39m: Loading a default text/sample.md file.
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: loadFileBuffer
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: fromDirectory
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: fromDirectory
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFilesContents
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:37 - [34mdebug[39m: loadFileContents
+16:12:38 - [34mdebug[39m: fromDirectory
+16:12:38 - [34mdebug[39m: loadFileContents
+16:12:38 - [34mdebug[39m: fromDirectory
+16:12:38 - [34mdebug[39m: fromDirectory
+16:12:38 - [34mdebug[39m: loadFilesContents
+16:12:38 - [34mdebug[39m: loadFilesContents
+16:12:38 - [34mdebug[39m: loadFilesContents
+16:12:38 - [34mdebug[39m: loadFilesContents
+16:12:38 - [34mdebug[39m: loadFilesContents
+16:12:38 - [34mdebug[39m: loadFilesContents
+16:12:38 - [34mdebug[39m: loadFileContents
+16:12:39 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractId":"1bc16d91-51b0-4001-8cdd-0bb1bf7b3dc3"}
+16:12:39 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m1bc16d91-51b0-4001-8cdd-0bb1bf7b3dc3[39m[33m"[39m
+[33m}[39m
+16:23:35 - [32minfo[39m: Using current directory as template folder
+16:23:35 - [32minfo[39m: Loading a default text/sample.md file.
+16:23:35 - [32minfo[39m: Loading a default request.json file.
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: loadFileBuffer
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: fromDirectory
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: fromDirectory
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFilesContents
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:35 - [34mdebug[39m: loadFileContents
+16:23:37 - [34mdebug[39m: fromDirectory
+16:23:37 - [34mdebug[39m: loadFileContents
+16:23:37 - [34mdebug[39m: fromDirectory
+16:23:37 - [34mdebug[39m: fromDirectory
+16:23:37 - [34mdebug[39m: loadFilesContents
+16:23:37 - [34mdebug[39m: loadFilesContents
+16:23:37 - [34mdebug[39m: loadFilesContents
+16:23:37 - [34mdebug[39m: loadFilesContents
+16:23:37 - [34mdebug[39m: loadFilesContents
+16:23:37 - [34mdebug[39m: loadFilesContents
+16:23:37 - [34mdebug[39m: loadFileContents
+16:23:37 - [31merror[39m: Parse error at line 3 column 36
+2. A segunda parte: "Rui Marques". "25/05/2021"
+                                   ^^^^^^^^^^^^
+Expected: /(1[0-2])|0[1-9]/
+16:35:35 - [32minfo[39m: Using current directory as template folder
+16:35:35 - [32minfo[39m: Loading a default text/sample.md file.
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: loadFileBuffer
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: fromDirectory
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: fromDirectory
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFilesContents
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:35 - [34mdebug[39m: loadFileContents
+16:35:37 - [34mdebug[39m: fromDirectory
+16:35:37 - [34mdebug[39m: loadFileContents
+16:35:37 - [34mdebug[39m: fromDirectory
+16:35:37 - [34mdebug[39m: fromDirectory
+16:35:37 - [34mdebug[39m: loadFilesContents
+16:35:37 - [34mdebug[39m: loadFilesContents
+16:35:37 - [34mdebug[39m: loadFilesContents
+16:35:37 - [34mdebug[39m: loadFilesContents
+16:35:37 - [34mdebug[39m: loadFilesContents
+16:35:37 - [34mdebug[39m: loadFilesContents
+16:35:37 - [34mdebug[39m: loadFileContents
+16:35:37 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractDate":"2022-01-01T00:00:00.000+01:00","contractId":"bdc192bb-fbab-49d4-8bf0-b5df2be36466"}
+16:35:37 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-01-01T00:00:00.000+01:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35mbdc192bb-fbab-49d4-8bf0-b5df2be36466[39m[33m"[39m
+[33m}[39m
+16:51:18 - [32minfo[39m: Using current directory as template folder
+16:51:18 - [32minfo[39m: Loading a default text/sample.md file.
+16:51:18 - [32minfo[39m: Loading a default request.json file.
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: loadFileBuffer
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: fromDirectory
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: fromDirectory
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFilesContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:18 - [34mdebug[39m: loadFileContents
+16:51:20 - [34mdebug[39m: fromDirectory
+16:51:20 - [34mdebug[39m: loadFileContents
+16:51:20 - [34mdebug[39m: fromDirectory
+16:51:20 - [34mdebug[39m: fromDirectory
+16:51:20 - [34mdebug[39m: loadFilesContents
+16:51:20 - [34mdebug[39m: loadFilesContents
+16:51:20 - [34mdebug[39m: loadFilesContents
+16:51:20 - [34mdebug[39m: loadFilesContents
+16:51:20 - [34mdebug[39m: loadFilesContents
+16:51:20 - [34mdebug[39m: loadFilesContents
+16:51:20 - [34mdebug[39m: loadFileContents
+16:51:21 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractDate":"2022-01-01T00:00:00.000+01:00","contractId":"512f79e1-8e86-44c0-8e5a-95dbec114c10"}
+16:51:21 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+16:51:21 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+16:51:21 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+16:51:21 - [32minfo[39m:
+[36m99.5[39m
+16:51:21 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-1fa3ab35c021e4fb55425314b7bf86a30cd137adfeb98958ebac74c8c5f46931[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m43ae80b5-5075-4c5b-9151-62470af9b4a7[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T15:51:21.083Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#512f79e1-8e86-44c0-8e5a-95dbec114c10[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T15:51:21.084Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+16:52:00 - [32minfo[39m: Using current directory as template folder
+16:52:00 - [32minfo[39m: Loading a default text/sample.md file.
+16:52:00 - [32minfo[39m: Loading a default request.json file.
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: loadFileBuffer
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: fromDirectory
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: fromDirectory
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFilesContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:01 - [34mdebug[39m: loadFileContents
+16:52:02 - [34mdebug[39m: fromDirectory
+16:52:02 - [34mdebug[39m: loadFileContents
+16:52:02 - [34mdebug[39m: fromDirectory
+16:52:02 - [34mdebug[39m: fromDirectory
+16:52:02 - [34mdebug[39m: loadFilesContents
+16:52:02 - [34mdebug[39m: loadFilesContents
+16:52:02 - [34mdebug[39m: loadFilesContents
+16:52:02 - [34mdebug[39m: loadFilesContents
+16:52:02 - [34mdebug[39m: loadFilesContents
+16:52:02 - [34mdebug[39m: loadFilesContents
+16:52:02 - [34mdebug[39m: loadFileContents
+16:52:03 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":3,"amount":200,"contractDate":"2022-01-01T00:00:00.000+01:00","contractId":"68c41f3e-5699-4ea4-a6d4-41c351010638"}
+16:52:03 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+16:52:03 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+16:52:03 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+16:52:03 - [32minfo[39m: 01/01/2022
+16:52:03 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-0934087850283ba94774b621b279b4e240cabf38aa34c09cf7bb67e8a9e6feb4[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m0e87afaa-bcf9-4071-9629-ed99014ef26b[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T15:52:03.352Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#68c41f3e-5699-4ea4-a6d4-41c351010638[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T15:52:03.353Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+16:59:32 - [32minfo[39m: Using current directory as template folder
+16:59:32 - [32minfo[39m: Loading a default text/sample.md file.
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: loadFileBuffer
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: fromDirectory
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: fromDirectory
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFilesContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:32 - [34mdebug[39m: loadFileContents
+16:59:33 - [34mdebug[39m: fromDirectory
+16:59:33 - [34mdebug[39m: loadFileContents
+16:59:33 - [34mdebug[39m: fromDirectory
+16:59:33 - [34mdebug[39m: fromDirectory
+16:59:33 - [34mdebug[39m: loadFilesContents
+16:59:33 - [34mdebug[39m: loadFilesContents
+16:59:33 - [34mdebug[39m: loadFilesContents
+16:59:33 - [34mdebug[39m: loadFilesContents
+16:59:33 - [34mdebug[39m: loadFilesContents
+16:59:33 - [34mdebug[39m: loadFilesContents
+16:59:33 - [34mdebug[39m: loadFileContents
+16:59:33 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-01-01T00:00:00.000+01:00","contractId":"3723a98b-e910-4b86-bef1-57da30c15b20"}
+16:59:33 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Period[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mmonths[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-01-01T00:00:00.000+01:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m3723a98b-e910-4b86-bef1-57da30c15b20[39m[33m"[39m
+[33m}[39m
+17:00:54 - [32minfo[39m: Using current directory as template folder
+17:00:54 - [32minfo[39m: Loading a default text/sample.md file.
+17:00:54 - [32minfo[39m: Loading a default request.json file.
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: loadFileBuffer
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: fromDirectory
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: fromDirectory
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFilesContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:54 - [34mdebug[39m: loadFileContents
+17:00:55 - [34mdebug[39m: fromDirectory
+17:00:55 - [34mdebug[39m: loadFileContents
+17:00:55 - [34mdebug[39m: fromDirectory
+17:00:55 - [34mdebug[39m: fromDirectory
+17:00:55 - [34mdebug[39m: loadFilesContents
+17:00:55 - [34mdebug[39m: loadFilesContents
+17:00:55 - [34mdebug[39m: loadFilesContents
+17:00:55 - [34mdebug[39m: loadFilesContents
+17:00:55 - [34mdebug[39m: loadFilesContents
+17:00:55 - [34mdebug[39m: loadFilesContents
+17:00:55 - [34mdebug[39m: loadFileContents
+17:00:56 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-01-01T00:00:00.000+01:00","contractId":"10d8b816-332c-429c-b741-5d9f2634d337"}
+17:00:56 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:00:56 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:00:56 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+17:00:56 - [32minfo[39m: 04/01/2022
+17:00:56 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-da42c3ef15bd674ab788acf50858c3decf687703262e21022120cc43b68dc048[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mec84e444-fa57-43ce-959f-c39802c475fe[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:00:56.402Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#10d8b816-332c-429c-b741-5d9f2634d337[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:00:56.402Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+17:01:44 - [32minfo[39m: Using current directory as template folder
+17:01:44 - [32minfo[39m: Loading a default text/sample.md file.
+17:01:44 - [32minfo[39m: Loading a default request.json file.
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: loadFileBuffer
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: fromDirectory
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: fromDirectory
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFilesContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:44 - [34mdebug[39m: loadFileContents
+17:01:46 - [34mdebug[39m: fromDirectory
+17:01:46 - [34mdebug[39m: loadFileContents
+17:01:46 - [34mdebug[39m: fromDirectory
+17:01:46 - [34mdebug[39m: fromDirectory
+17:01:46 - [34mdebug[39m: loadFilesContents
+17:01:46 - [34mdebug[39m: loadFilesContents
+17:01:46 - [34mdebug[39m: loadFilesContents
+17:01:46 - [34mdebug[39m: loadFilesContents
+17:01:46 - [34mdebug[39m: loadFilesContents
+17:01:46 - [34mdebug[39m: loadFilesContents
+17:01:46 - [34mdebug[39m: loadFileContents
+17:01:47 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-02-05T00:00:00.000+01:00","contractId":"fce6349f-2672-4a34-9a4c-0ad4fe7fd574"}
+17:01:47 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:01:47 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:01:47 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+17:01:47 - [32minfo[39m: 05/05/2022
+17:01:47 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-5915c1157eb0a6b64954b624e86344b4f28946263de3ca472bd017a2992be97e[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m1608f790-7d81-491b-9ec5-4dd8444189f4[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:01:47.339Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#fce6349f-2672-4a34-9a4c-0ad4fe7fd574[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:01:47.339Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+17:02:04 - [32minfo[39m: Using current directory as template folder
+17:02:04 - [32minfo[39m: Loading a default text/sample.md file.
+17:02:04 - [32minfo[39m: Loading a default request.json file.
+17:02:04 - [34mdebug[39m: loadFileContents
+17:02:04 - [34mdebug[39m: loadFileBuffer
+17:02:04 - [34mdebug[39m: loadFileContents
+17:02:04 - [34mdebug[39m: loadFileContents
+17:02:04 - [34mdebug[39m: fromDirectory
+17:02:04 - [34mdebug[39m: loadFilesContents
+17:02:04 - [34mdebug[39m: loadFilesContents
+17:02:04 - [34mdebug[39m: loadFilesContents
+17:02:04 - [34mdebug[39m: loadFilesContents
+17:02:04 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFileContents
+17:02:05 - [34mdebug[39m: fromDirectory
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFilesContents
+17:02:05 - [34mdebug[39m: loadFileContents
+17:02:05 - [34mdebug[39m: loadFileContents
+17:02:05 - [34mdebug[39m: loadFileContents
+17:02:05 - [34mdebug[39m: loadFileContents
+17:02:05 - [34mdebug[39m: loadFileContents
+17:02:06 - [34mdebug[39m: fromDirectory
+17:02:06 - [34mdebug[39m: loadFileContents
+17:02:06 - [34mdebug[39m: fromDirectory
+17:02:06 - [34mdebug[39m: fromDirectory
+17:02:06 - [34mdebug[39m: loadFilesContents
+17:02:06 - [34mdebug[39m: loadFilesContents
+17:02:06 - [34mdebug[39m: loadFilesContents
+17:02:06 - [34mdebug[39m: loadFilesContents
+17:02:06 - [34mdebug[39m: loadFilesContents
+17:02:06 - [34mdebug[39m: loadFilesContents
+17:02:06 - [34mdebug[39m: loadFileContents
+17:02:07 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"3cd4b22e-ab09-4ba5-a276-4591fd5be3a9"}
+17:02:07 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:02:07 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:02:07 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+17:02:07 - [32minfo[39m: 06/05/2022
+17:02:07 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-84dc62e0ae727d36968c9d06af9d4d08a8b9373b6dc8c26ff4a3a23cf4c96279[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m71d4d0c5-423a-431f-bcb4-10faca1311b2[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:02:07.481Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#3cd4b22e-ab09-4ba5-a276-4591fd5be3a9[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:02:07.482Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+17:07:11 - [32minfo[39m: Using current directory as template folder
+17:07:11 - [32minfo[39m: Loading a default text/sample.md file.
+17:07:11 - [32minfo[39m: Loading a default request.json file.
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: loadFileBuffer
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: fromDirectory
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: fromDirectory
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFilesContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:11 - [34mdebug[39m: loadFileContents
+17:07:12 - [34mdebug[39m: fromDirectory
+17:07:12 - [34mdebug[39m: loadFileContents
+17:07:12 - [34mdebug[39m: fromDirectory
+17:07:12 - [34mdebug[39m: fromDirectory
+17:07:12 - [34mdebug[39m: loadFilesContents
+17:07:12 - [34mdebug[39m: loadFilesContents
+17:07:12 - [34mdebug[39m: loadFilesContents
+17:07:12 - [34mdebug[39m: loadFilesContents
+17:07:12 - [34mdebug[39m: loadFilesContents
+17:07:12 - [34mdebug[39m: loadFilesContents
+17:07:12 - [34mdebug[39m: loadFileContents
+17:07:13 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"87b0f7da-ae40-45c7-8c47-3b814125a467"}
+17:07:13 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:07:13 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:07:13 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+17:07:13 - [32minfo[39m:
+[33m"[39m[35m05/06/2022[39m[33m"[39m
+17:07:13 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-9d7ad27c8cbb4d022c5c825ffa2092a6a4689be70232ff84083d31e70ae8bd3a[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32moutput[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m4cbdfa81-4e4c-4117-8466-b9bc45e1ce46[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:07:13.106Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#87b0f7da-ae40-45c7-8c47-3b814125a467[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-26T16:07:13.108Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+17:34:09 - [32minfo[39m: Using current directory as template folder
+17:34:09 - [32minfo[39m: Loading a default text/sample.md file.
+17:34:09 - [32minfo[39m: Loading a default request.json file.
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: loadFileBuffer
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: fromDirectory
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: fromDirectory
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFilesContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:09 - [34mdebug[39m: loadFileContents
+17:34:11 - [34mdebug[39m: fromDirectory
+17:34:11 - [34mdebug[39m: loadFileContents
+17:34:11 - [34mdebug[39m: fromDirectory
+17:34:11 - [34mdebug[39m: fromDirectory
+17:34:11 - [34mdebug[39m: loadFilesContents
+17:34:11 - [34mdebug[39m: loadFilesContents
+17:34:11 - [34mdebug[39m: loadFilesContents
+17:34:11 - [34mdebug[39m: loadFilesContents
+17:34:11 - [34mdebug[39m: loadFilesContents
+17:34:11 - [34mdebug[39m: loadFilesContents
+17:34:11 - [34mdebug[39m: loadFileContents
+17:34:11 - [31merror[39m: Type error (at file logic/logic.ergo line 43 col 12). Field `contractEnd' has type `DateTime' but should have type `DateTime?'
+     return MyResponse{ 
+                        
+17:39:43 - [32minfo[39m: Using current directory as template folder
+17:39:43 - [32minfo[39m: Loading a default text/sample.md file.
+17:39:43 - [32minfo[39m: Loading a default request.json file.
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: loadFileBuffer
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: fromDirectory
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: fromDirectory
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFilesContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:43 - [34mdebug[39m: loadFileContents
+17:39:45 - [34mdebug[39m: fromDirectory
+17:39:45 - [34mdebug[39m: loadFileContents
+17:39:45 - [34mdebug[39m: fromDirectory
+17:39:45 - [34mdebug[39m: fromDirectory
+17:39:45 - [34mdebug[39m: loadFilesContents
+17:39:45 - [34mdebug[39m: loadFilesContents
+17:39:45 - [34mdebug[39m: loadFilesContents
+17:39:45 - [34mdebug[39m: loadFilesContents
+17:39:45 - [34mdebug[39m: loadFilesContents
+17:39:45 - [34mdebug[39m: loadFilesContents
+17:39:45 - [34mdebug[39m: loadFileContents
+17:39:45 - [31merror[39m: Parse error (at file logic/logic.ergo line 67 col 7). 
+       contractInfo: "O contrato não foi renovado.",
+       ^^^^^^^^^^^^                                  
+17:40:30 - [32minfo[39m: Using current directory as template folder
+17:40:30 - [32minfo[39m: Loading a default text/sample.md file.
+17:40:30 - [32minfo[39m: Loading a default request.json file.
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: loadFileBuffer
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: fromDirectory
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: fromDirectory
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFilesContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:30 - [34mdebug[39m: loadFileContents
+17:40:32 - [34mdebug[39m: fromDirectory
+17:40:32 - [34mdebug[39m: loadFileContents
+17:40:32 - [34mdebug[39m: fromDirectory
+17:40:32 - [34mdebug[39m: fromDirectory
+17:40:32 - [34mdebug[39m: loadFilesContents
+17:40:32 - [34mdebug[39m: loadFilesContents
+17:40:32 - [34mdebug[39m: loadFilesContents
+17:40:32 - [34mdebug[39m: loadFilesContents
+17:40:32 - [34mdebug[39m: loadFilesContents
+17:40:32 - [34mdebug[39m: loadFilesContents
+17:40:32 - [34mdebug[39m: loadFileContents
+17:40:33 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"e6391500-d94b-437a-b578-ca3f16b80de4"}
+17:40:33 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:40:33 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:40:33 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+17:40:33 - [32minfo[39m:
+[33m"[39m[35m05/06/2022[39m[33m"[39m
+17:40:33 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-2678543c46ab608922292fec916d842c2405334fa6d731af00bac0d1ba09888e[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpaymentConfirmation[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractInfo[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato foi renovado e termina a 05/06/2022[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractEnd[39m[33m"[39m[33m: [39m[33m"[39m[35m05/06/2022[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mcfd503bf-e3f7-493c-bfd8-f03613412681[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-29T16:40:33.141Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#e6391500-d94b-437a-b578-ca3f16b80de4[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-29T16:40:33.141Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:22:27 - [32minfo[39m: Using current directory as template folder
+12:22:27 - [32minfo[39m: Loading a default text/sample.md file.
+12:22:27 - [32minfo[39m: Loading a default request.json file.
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: loadFileBuffer
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: fromDirectory
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: fromDirectory
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFilesContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:27 - [34mdebug[39m: loadFileContents
+12:22:29 - [34mdebug[39m: fromDirectory
+12:22:29 - [34mdebug[39m: loadFileContents
+12:22:29 - [34mdebug[39m: fromDirectory
+12:22:29 - [34mdebug[39m: fromDirectory
+12:22:29 - [34mdebug[39m: loadFilesContents
+12:22:29 - [34mdebug[39m: loadFilesContents
+12:22:29 - [34mdebug[39m: loadFilesContents
+12:22:29 - [34mdebug[39m: loadFilesContents
+12:22:29 - [34mdebug[39m: loadFilesContents
+12:22:29 - [34mdebug[39m: loadFilesContents
+12:22:29 - [34mdebug[39m: loadFileContents
+12:22:30 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"357a492f-c60a-4d3f-8e9c-ce3ab91bb415"}
+12:22:30 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:22:30 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:22:30 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+12:22:30 - [32minfo[39m:
+[33m"[39m[35m05/06/2022[39m[33m"[39m
+12:22:30 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-9edcec3ec5fb60704036a6f7825ca02885629cc0225636147f11187fbe1631f4[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpaymentConfirmation[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractInfo[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato foi renovado e termina a 05/06/2022[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractEnd[39m[33m"[39m[33m: [39m[33m"[39m[35m05/06/2022[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mf10da2be-82af-4511-b10e-4b7629a8e338[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-30T11:22:30.679Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#357a492f-c60a-4d3f-8e9c-ce3ab91bb415[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-30T11:22:30.680Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+12:43:42 - [32minfo[39m: Using current directory as template folder
+12:43:42 - [32minfo[39m: Loading a default text/sample.md file.
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: loadFileBuffer
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: fromDirectory
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: fromDirectory
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFilesContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:42 - [34mdebug[39m: loadFileContents
+12:43:44 - [34mdebug[39m: fromDirectory
+12:43:44 - [34mdebug[39m: loadFileContents
+12:43:44 - [34mdebug[39m: fromDirectory
+12:43:44 - [34mdebug[39m: fromDirectory
+12:43:44 - [34mdebug[39m: loadFilesContents
+12:43:44 - [34mdebug[39m: loadFilesContents
+12:43:44 - [34mdebug[39m: loadFilesContents
+12:43:44 - [34mdebug[39m: loadFilesContents
+12:43:44 - [34mdebug[39m: loadFilesContents
+12:43:44 - [34mdebug[39m: loadFilesContents
+12:43:44 - [34mdebug[39m: loadFileContents
+12:43:45 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"76940ef1-7cb1-44e3-b70d-0fdf8a1ac2a0"}
+12:43:45 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Period[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mmonths[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-03-05T00:00:00.000+01:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m76940ef1-7cb1-44e3-b70d-0fdf8a1ac2a0[39m[33m"[39m
+[33m}[39m
+11:44:53 - [32minfo[39m: Using current directory as template folder
+11:44:53 - [32minfo[39m: Loading a default text/sample.md file.
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: loadFileBuffer
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: fromDirectory
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: fromDirectory
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFilesContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:53 - [34mdebug[39m: loadFileContents
+11:44:55 - [34mdebug[39m: fromDirectory
+11:44:55 - [34mdebug[39m: loadFileContents
+11:44:55 - [34mdebug[39m: fromDirectory
+11:44:55 - [34mdebug[39m: fromDirectory
+11:44:55 - [34mdebug[39m: loadFilesContents
+11:44:55 - [34mdebug[39m: loadFilesContents
+11:44:55 - [34mdebug[39m: loadFilesContents
+11:44:55 - [34mdebug[39m: loadFilesContents
+11:44:55 - [34mdebug[39m: loadFilesContents
+11:44:55 - [34mdebug[39m: loadFilesContents
+11:44:55 - [34mdebug[39m: loadFileContents
+11:44:56 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"1d90a27c-4be0-419a-a3b4-a09d31fc82d4"}
+11:44:56 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyContract[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mEmployer[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mEmployee[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordParty[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpartyId[39m[33m"[39m[33m: [39m[33m"[39m[35mRui Marques[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mduration[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.time.Period[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m3[39m[33m,[39m
+    [33m"[39m[32munit[39m[33m"[39m[33m: [39m[33m"[39m[35mmonths[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+  [33m"[39m[32mcontractDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-03-05T00:00:00.000+01:00[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractId[39m[33m"[39m[33m: [39m[33m"[39m[35m1d90a27c-4be0-419a-a3b4-a09d31fc82d4[39m[33m"[39m
+[33m}[39m
+11:45:32 - [32minfo[39m: Using current directory as template folder
+11:45:32 - [32minfo[39m: Loading a default text/sample.md file.
+11:45:32 - [32minfo[39m: Loading a default request.json file.
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: loadFileBuffer
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: fromDirectory
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: fromDirectory
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFilesContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:32 - [34mdebug[39m: loadFileContents
+11:45:34 - [34mdebug[39m: fromDirectory
+11:45:34 - [34mdebug[39m: loadFileContents
+11:45:34 - [34mdebug[39m: fromDirectory
+11:45:34 - [34mdebug[39m: fromDirectory
+11:45:34 - [34mdebug[39m: loadFilesContents
+11:45:34 - [34mdebug[39m: loadFilesContents
+11:45:34 - [34mdebug[39m: loadFilesContents
+11:45:34 - [34mdebug[39m: loadFilesContents
+11:45:34 - [34mdebug[39m: loadFilesContents
+11:45:34 - [34mdebug[39m: loadFilesContents
+11:45:34 - [34mdebug[39m: loadFileContents
+11:45:35 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"bdd57a63-a46f-4bd1-b69b-d77814939a74"}
+11:45:35 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:45:35 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:45:35 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+11:45:35 - [32minfo[39m:
+[33m"[39m[35m05/06/2022[39m[33m"[39m
+11:45:35 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-4cad6f05eea3a97ce451670adce8f5ea27a9526169aaa4a64f5d621bd738d8d3[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m99.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpaymentConfirmation[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre foi pago na totalidade[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractInfo[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato foi renovado e termina a 05/06/2022[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractEnd[39m[33m"[39m[33m: [39m[33m"[39m[35m05/06/2022[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m4a352db6-0be0-4328-aed4-37af9861a08c[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-06T10:45:35.390Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m
+    [33m{[39m
+      [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.runtime.PaymentObligation[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mamount[39m[33m"[39m[33m: [39m[33m{[39m
+        [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.money.MonetaryAmount[39m[33m"[39m[33m,[39m
+        [33m"[39m[32mdoubleValue[39m[33m"[39m[33m: [39m[36m200[39m[33m,[39m
+        [33m"[39m[32mcurrencyCode[39m[33m"[39m[33m: [39m[33m"[39m[35mEUR[39m[33m"[39m
+      [33m}[39m[33m,[39m
+      [33m"[39m[32mdescription[39m[33m"[39m[33m: [39m[33m"[39m[35mPagamento efetuado por Digital Sign a Rui Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mcontract[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.digitalsign.simpleslarenewalexample.MyContract#bdd57a63-a46f-4bd1-b69b-d77814939a74[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisor[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Digital%20Sign[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mpromisee[39m[33m"[39m[33m: [39m[33m"[39m[35mresource:org.accordproject.cicero.contract.AccordParty#Rui%20Marques[39m[33m"[39m[33m,[39m
+      [33m"[39m[32meventId[39m[33m"[39m[33m: [39m[33m"[39m[35mvalid[39m[33m"[39m[33m,[39m
+      [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-06T10:45:35.390Z[39m[33m"[39m
+    [33m}[39m
+  [33m][39m
+[33m}[39m
+11:46:18 - [32minfo[39m: Using current directory as template folder
+11:46:18 - [32minfo[39m: Loading a default text/sample.md file.
+11:46:18 - [32minfo[39m: Loading a default request.json file.
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: loadFileBuffer
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: fromDirectory
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: fromDirectory
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFilesContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:18 - [34mdebug[39m: loadFileContents
+11:46:19 - [34mdebug[39m: fromDirectory
+11:46:19 - [34mdebug[39m: loadFileContents
+11:46:19 - [34mdebug[39m: fromDirectory
+11:46:19 - [34mdebug[39m: fromDirectory
+11:46:19 - [34mdebug[39m: loadFilesContents
+11:46:19 - [34mdebug[39m: loadFilesContents
+11:46:19 - [34mdebug[39m: loadFilesContents
+11:46:19 - [34mdebug[39m: loadFilesContents
+11:46:19 - [34mdebug[39m: loadFilesContents
+11:46:19 - [34mdebug[39m: loadFilesContents
+11:46:19 - [34mdebug[39m: loadFileContents
+11:46:20 - [34mdebug[39m: Setting clause data: {"$class":"org.digitalsign.simpleslarenewalexample.MyContract","Employer":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Digital Sign"},"Employee":{"$class":"org.accordproject.cicero.contract.AccordParty","partyId":"Rui Marques"},"duration":{"$class":"org.accordproject.time.Period","amount":3,"unit":"months"},"amount":200,"contractDate":"2022-03-05T00:00:00.000+01:00","contractId":"b0e40225-b709-4cb1-9f06-9d162496759d"}
+11:46:20 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:46:20 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:46:21 - [34mdebug[39m: Engine processing request org.digitalsign.simpleslarenewalexample.MyRequest with state org.accordproject.cicero.contract.AccordContractState
+11:46:21 - [32minfo[39m:
+[33m"[39m[35m05/06/2022[39m[33m"[39m
+11:46:21 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35msimpleslarenewalexample@0.0.0-c951e17b07d587fd22910376ca0bea60fd7f48a3885d5dae06497eb9f174b203[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mslapoints[39m[33m"[39m[33m: [39m[36m39.5[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.digitalsign.simpleslarenewalexample.MyResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mpaymentConfirmation[39m[33m"[39m[33m: [39m[33m"[39m[35mO trimestre não foi pago por má avaliação[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractInfo[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato não foi renovado.[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mcontractEnd[39m[33m"[39m[33m: [39m[33m"[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mf5972193-dae6-4a1b-85da-997e91e957b1[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-06T10:46:21.022Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m

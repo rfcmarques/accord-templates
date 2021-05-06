@@ -1,0 +1,29 @@
+namespace org.digitalsign.simpleslarenewalexample
+
+import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
+import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
+import org.accordproject.time.* from https://models.accordproject.org/time@0.2.0.cto
+
+transaction MyRequest extends Request {
+  o Double slapoints
+}
+
+transaction MyResponse extends Response {
+  o String paymentConfirmation
+  o String contractInfo 
+  o String contractEnd 
+}
+
+/**
+ * The model for the contract
+ */
+asset MyContract extends AccordContract {
+  /**
+   * The name for the contract
+   */
+  o AccordParty Employer
+  o AccordParty Employee
+  o Period duration
+  o Double amount
+  o DateTime contractDate
+}

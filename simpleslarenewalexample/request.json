@@ -1,0 +1,4 @@
+{
+    "$class": "org.digitalsign.simpleslarenewalexample.MyRequest",
+    "slapoints": 39.5
+}
