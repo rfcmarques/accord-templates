@@ -1,0 +1,2 @@
+Entity A defined with the Entity B that A shall delivery some Goods to B.
+In case of delayed delivery of Goods, "Entity A" shall pay to "Entity B" a penalty amounting to 5% of the total value of the Goods for every 5 days of delay.

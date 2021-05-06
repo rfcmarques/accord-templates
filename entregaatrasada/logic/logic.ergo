@@ -1,0 +1,35 @@
+namespace org.accordproject.penalty
+
+import org.accordproject.cicero.runtime.*
+import org.accordproject.time.*
+import org.accordproject.money.*
+
+contract Penalty over PenaltyContract {
+  clause penalty(request : PenaltyRequest) : PenaltyResponse emits PaymentObligation {
+
+    let agreed = request.agreedDelivery;
+    let delivered = request.deliveredAt;
+    enforce isBefore(agreed,now()) else
+    throw ErgoErrorResponse{ message : "Cannot exercise late delivery before delivery date" };
+
+    
+    let diff : Duration = diffDurationAs(delivered,agreed,~org.accordproject.time.TemporalUnit.days);
+    let diffRatio : Double = divideDuration(diff,durationAs(contract.penaltyDuration,~org.accordproject.time.TemporalUnit.days));
+    info(diffRatio);
+    
+    let penalty = diffRatio * contract.penaltyPercentage/100.0 * request.goodsValue;
+    
+
+    emit PaymentObligation{
+			contract: contract,
+			promisor: some(contract.seller),
+			promisee: some(contract.buyer),
+			deadline: none,
+			amount: MonetaryAmount{ doubleValue: penalty, currencyCode: EUR },
+			description: contract.seller.partyId ++ " should pay penalty amount to " ++ contract.buyer.partyId
+		};
+    return PenaltyResponse{
+      penalty: penalty
+    }
+  }
+}

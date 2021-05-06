@@ -1,0 +1,2 @@
+Entity A defined with the Entity B that A shall delivery some Goods to B.
+In case of delayed delivery of Goods, {{buyer}} shall pay to {{seller}} a penalty amounting to {{penaltyPercentage}}% of the total value of the Goods for every {{penaltyDuration}} of delay.

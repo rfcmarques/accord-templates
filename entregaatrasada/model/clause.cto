@@ -1,0 +1,25 @@
+namespace org.accordproject.penalty
+
+import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
+import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
+import org.accordproject.time.* from https://models.accordproject.org/v2.0/time.cto
+
+
+asset PenaltyContract extends AccordContract {
+  o AccordParty buyer
+  o AccordParty seller
+  o Duration penaltyDuration
+  o Double penaltyPercentage
+}
+
+
+transaction PenaltyRequest extends Request {
+  o DateTime agreedDelivery
+  o DateTime deliveredAt 
+  o Double goodsValue
+}
+
+
+transaction PenaltyResponse extends Response {
+  o Double penalty
+}
