@@ -2,21 +2,25 @@ namespace org.accordproject.renovacontrato
 
 import org.accordproject.cicero.contract.* from https://models.accordproject.org/cicero/contract.cto
 import org.accordproject.cicero.runtime.* from https://models.accordproject.org/cicero/runtime.cto
-
+import org.accordproject.time.* from https://models.accordproject.org/time@0.2.0.cto
 
 // Template model
 asset RenovaClause extends AccordClause {
-    o String empresa
-    o String client
-    o Integer contractDuration
+    o AccordParty supplier
+    o AccordParty client
+    o DateTime inicialDate
+    o Period contractDuration
 }
 
 // Request
 transaction RenovaContratoRequest extends Request {
-    o DateTime renewalDate 
 }
 
 // Response
 transaction RenovaContratoResponse extends Response {
+    o String contract
+    o DateTime contractEnd
+    o String client    
+    o Boolean flag
     o String message
 }

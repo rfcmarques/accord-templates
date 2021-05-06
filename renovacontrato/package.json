@@ -1,1 +1,17 @@
-{"name":"renovacontrato","displayName":"Renova Contrato","version":"0.0.1","description":"This is an empty clause template to get you started.","author":"Rui Marques","license":"Apache-2.0","accordproject":{"template":"clause","cicero":"^0.21.0","runtime":"ergo"},"devDependencies":{"cucumber":"^5.1.0"},"scripts":{"test":"cucumber-js test -r .cucumber.js"},"keywords":["renova","contrato","contract","renewal"]}
+{
+    "name":"renovacontrato",
+    "displayName":"Renova Contrato",
+    "version":"0.2.0",
+    "description":"Exemplo de criação de um alerta de um alerta para o final do contrato",
+    "author":"Rui Marques",
+    "license":"Apache-2.0",
+    "accordproject":{
+        "template":"clause",
+        "cicero":"^0.21.0",
+        "runtime":"ergo"},
+    "devDependencies":{
+        "cucumber":"^5.1.0"},
+    "scripts":{
+        "test":"cucumber-js test -r .cucumber.js"},
+    "keywords":["renova","contrato","contract","renewal","alert","alerta"]
+}

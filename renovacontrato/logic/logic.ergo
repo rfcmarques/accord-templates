@@ -17,26 +17,37 @@ namespace org.accordproject.renovacontrato
 import org.accordproject.cicero.runtime.*
 import org.accordproject.time.*
 
+define function triggerAlert(date : DateTime) : Boolean {
+  let renewalPeriod = 30;
+  let diff = diffDurationAs(date,now(),~org.accordproject.time.TemporalUnit.days).amount;
+
+  if diff <= renewalPeriod then
+  return true
+  else return false
+}
+
 contract RenovaContrato over RenovaClause {
   clause renova(request : RenovaContratoRequest) : RenovaContratoResponse {
-    
-    let renewal = request.renewalDate;
 
-    // Uma regra para evitar que a data fornecida aconteça antes da data atual
-	  enforce isBefore(now(),renewal) else
-	  throw ErgoErrorResponse{ message : "A data de renovação do contrato não pode ser antes da data atual"};
-    
-    // Uma variável baseada no número de dias entre a data atual e a data de renovação
-    let diff = diffDurationAs(renewal,now(),~org.accordproject.time.TemporalUnit.days).amount;
-    
-    info(diff);
+    let renewal = addPeriod(contract.inicialDate,contract.contractDuration);
+    info(renewal);
+    info(triggerAlert(renewal));   
 
-    // Uma condição na qual é decidido se o contrato deve ser renovado ou não
-    if diff <= 31 then 
-      return RenovaContratoResponse{message : "O contrato de " ++ contract.client ++ " vai acabar em breve e deve ser renovado"}
-    else 
-      return RenovaContratoResponse{message : "A data de renovação deste contrato é a " ++ 
-      toString(renewal) ++ 
-      ", pelo que ainda não foi realizado nenhum alerta"}
+    if triggerAlert(renewal) then
+      return RenovaContratoResponse{
+        message : "O contrato com este cliente termina em breve",
+        client: contract.client.partyId,
+        contract: contract.clauseId,
+        flag: true,
+        contractEnd: renewal
+      }
+    else
+      return RenovaContratoResponse{
+        message : "O contrato com este cliente não irá terminar no espaço definido",
+        client: contract.client.partyId,
+        contract: contract.clauseId,
+        flag: false,
+        contractEnd: renewal
+      }
   }
 }
