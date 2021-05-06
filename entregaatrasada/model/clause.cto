@@ -8,18 +8,20 @@ import org.accordproject.time.* from https://models.accordproject.org/v2.0/time.
 asset PenaltyContract extends AccordContract {
   o AccordParty buyer
   o AccordParty seller
+  o DateTime shippingDate
+  o DateTime agreedDelivery
   o Duration penaltyDuration
   o Double penaltyPercentage
+  o Double cap
 }
 
 
 transaction PenaltyRequest extends Request {
-  o DateTime agreedDelivery
   o DateTime deliveredAt 
   o Double goodsValue
 }
 
 
 transaction PenaltyResponse extends Response {
-  o Double penalty
+  o String notification
 }

@@ -4,22 +4,44 @@ import org.accordproject.cicero.runtime.*
 import org.accordproject.time.*
 import org.accordproject.money.*
 
+define function isLate(agreed : DateTime, arrived : DateTime) : Boolean {
+  if isAfter(arrived,agreed) then
+  return true
+  else return false
+}
+
+define function calculatePenalty(
+    agreed : DateTime,
+    delivered : DateTime,
+    percentage : Double,
+    duration : Duration,
+    cap : Double,
+    goodsValue : Double
+  ) : Double {
+
+    let diff : Duration = diffDurationAs(delivered,agreed,~org.accordproject.time.TemporalUnit.days);
+    let diffRatio : Double = floor(divideDuration(diff,durationAs(duration,~org.accordproject.time.TemporalUnit.days)));
+    let maxPenalty : Double = goodsValue * cap / 100.0;
+    let penalty : Double = diffRatio * percentage / 100.0 * goodsValue;
+  
+    if penalty >= maxPenalty then
+    return maxPenalty
+    else return penalty
+}
+
 contract Penalty over PenaltyContract {
   clause penalty(request : PenaltyRequest) : PenaltyResponse emits PaymentObligation {
 
-    let agreed = request.agreedDelivery;
+    let agreed = contract.agreedDelivery;
     let delivered = request.deliveredAt;
-    enforce isBefore(agreed,now()) else
-    throw ErgoErrorResponse{ message : "Cannot exercise late delivery before delivery date" };
+    let percentage = contract.penaltyPercentage;
+    let duration = contract.penaltyDuration;
+    let cap = contract.cap;
+    let goodsValue = request.goodsValue;
+    
+    let penalty = calculatePenalty(agreed,delivered,percentage,duration,cap,goodsValue);
 
-    
-    let diff : Duration = diffDurationAs(delivered,agreed,~org.accordproject.time.TemporalUnit.days);
-    let diffRatio : Double = divideDuration(diff,durationAs(contract.penaltyDuration,~org.accordproject.time.TemporalUnit.days));
-    info(diffRatio);
-    
-    let penalty = diffRatio * contract.penaltyPercentage/100.0 * request.goodsValue;
-    
-
+    if isLate(agreed,delivered) then
     emit PaymentObligation{
 			contract: contract,
 			promisor: some(contract.seller),
@@ -29,7 +51,14 @@ contract Penalty over PenaltyContract {
 			description: contract.seller.partyId ++ " should pay penalty amount to " ++ contract.buyer.partyId
 		};
     return PenaltyResponse{
-      penalty: penalty
+      notification: "WARNING! The goods were delivered after the agreed delivery date, " 
+                    ++ toString(agreed) ++ 
+                    ", so a penalty was charged. The total value of the penalty was " 
+                    ++ toString(penalty)
+    }
+    else
+    return PenaltyResponse{
+      notification: "The goods were delived before the agreed date for the delivery, so there is no penalty."
     }
   }
 }
