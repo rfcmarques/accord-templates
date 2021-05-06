@@ -1,0 +1,1934 @@
+16:40:43 - [32minfo[39m: Using current directory as template folder
+16:40:43 - [32minfo[39m: Loading a default text/sample.md file.
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: loadFileBuffer
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: fromDirectory
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: fromDirectory
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFilesContents
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:43 - [34mdebug[39m: loadFileContents
+16:40:44 - [34mdebug[39m: fromDirectory
+16:40:44 - [34mdebug[39m: loadFileContents
+16:40:44 - [34mdebug[39m: fromDirectory
+16:40:44 - [34mdebug[39m: fromDirectory
+16:40:44 - [34mdebug[39m: loadFilesContents
+16:40:44 - [34mdebug[39m: loadFilesContents
+16:40:44 - [34mdebug[39m: loadFilesContents
+16:40:44 - [34mdebug[39m: loadFilesContents
+16:40:44 - [34mdebug[39m: loadFilesContents
+16:40:44 - [34mdebug[39m: loadFileContents
+16:40:44 - [31merror[39m: Parse error (at file logic/logic.ergo line 30 col 10). 
+      let numberOfDays = diffDurationAs(now(),request.renewalDate,~org.accordproject.time.TemporalUnit.days);
+          ^^^^^^^^^^^^                                                                                       
+16:41:08 - [32minfo[39m: Using current directory as template folder
+16:41:08 - [32minfo[39m: Loading a default text/sample.md file.
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: loadFileBuffer
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: fromDirectory
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: fromDirectory
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: fromDirectory
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:08 - [34mdebug[39m: fromDirectory
+16:41:08 - [34mdebug[39m: fromDirectory
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFilesContents
+16:41:08 - [34mdebug[39m: loadFileContents
+16:41:09 - [31merror[39m: Type error (at file logic/logic.ergo line 32 col 101). The field `numberOfDays' does not exist in type `{clauseId: String, client: String, contractDuration: Integer, supplier: String ..}'
+      message : "O contrato de " ++ contract.client ++ " vai acabar em breve e deve ser renovado" ++ numberOfDays
+                                                                                                     ^^^^^^^^^^^^
+16:41:30 - [32minfo[39m: Using current directory as template folder
+16:41:30 - [32minfo[39m: Loading a default text/sample.md file.
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: loadFileBuffer
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: fromDirectory
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: fromDirectory
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFilesContents
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:30 - [34mdebug[39m: fromDirectory
+16:41:30 - [34mdebug[39m: loadFileContents
+16:41:31 - [34mdebug[39m: fromDirectory
+16:41:31 - [34mdebug[39m: fromDirectory
+16:41:31 - [34mdebug[39m: loadFilesContents
+16:41:31 - [34mdebug[39m: loadFilesContents
+16:41:31 - [34mdebug[39m: loadFilesContents
+16:41:31 - [34mdebug[39m: loadFilesContents
+16:41:31 - [34mdebug[39m: loadFilesContents
+16:41:31 - [34mdebug[39m: loadFileContents
+16:41:31 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"a795049c-bad2-4e43-9d85-c16b7b5b401e"}
+16:41:31 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35ma795049c-bad2-4e43-9d85-c16b7b5b401e[39m[33m"[39m
+[33m}[39m
+16:41:42 - [32minfo[39m: Using current directory as template folder
+16:41:42 - [32minfo[39m: Loading a default text/sample.md file.
+16:41:42 - [32minfo[39m: Loading a default request.json file.
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: loadFileBuffer
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: fromDirectory
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: fromDirectory
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFilesContents
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:42 - [34mdebug[39m: loadFileContents
+16:41:44 - [34mdebug[39m: fromDirectory
+16:41:44 - [34mdebug[39m: loadFileContents
+16:41:44 - [34mdebug[39m: fromDirectory
+16:41:44 - [34mdebug[39m: fromDirectory
+16:41:44 - [34mdebug[39m: loadFilesContents
+16:41:44 - [34mdebug[39m: loadFilesContents
+16:41:44 - [34mdebug[39m: loadFilesContents
+16:41:44 - [34mdebug[39m: loadFilesContents
+16:41:44 - [34mdebug[39m: loadFilesContents
+16:41:44 - [34mdebug[39m: loadFileContents
+16:41:44 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"f237a07a-7786-406c-a2a5-dbb97330f0a5"}
+16:41:44 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+16:41:44 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+16:41:44 - [31merror[39m: Namespace is not defined for type org.accordproject.empty.EmptyRequest
+17:34:54 - [32minfo[39m: Using current directory as template folder
+17:34:54 - [32minfo[39m: Loading a default text/sample.md file.
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: loadFileBuffer
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: fromDirectory
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: fromDirectory
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFilesContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:54 - [34mdebug[39m: loadFileContents
+17:34:55 - [34mdebug[39m: fromDirectory
+17:34:55 - [34mdebug[39m: loadFileContents
+17:34:55 - [34mdebug[39m: fromDirectory
+17:34:55 - [34mdebug[39m: fromDirectory
+17:34:55 - [34mdebug[39m: loadFilesContents
+17:34:55 - [34mdebug[39m: loadFilesContents
+17:34:55 - [34mdebug[39m: loadFilesContents
+17:34:55 - [34mdebug[39m: loadFilesContents
+17:34:55 - [34mdebug[39m: loadFilesContents
+17:34:55 - [34mdebug[39m: loadFileContents
+17:34:55 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"2ceeb14a-c64c-4d66-a2cc-f8c85f70f366"}
+17:34:55 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m2ceeb14a-c64c-4d66-a2cc-f8c85f70f366[39m[33m"[39m
+[33m}[39m
+17:35:06 - [32minfo[39m: Using current directory as template folder
+17:35:06 - [32minfo[39m: Loading a default text/sample.md file.
+17:35:06 - [32minfo[39m: Loading a default request.json file.
+17:35:06 - [34mdebug[39m: loadFileContents
+17:35:06 - [34mdebug[39m: loadFileBuffer
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: fromDirectory
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: fromDirectory
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFilesContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:07 - [34mdebug[39m: loadFileContents
+17:35:08 - [34mdebug[39m: fromDirectory
+17:35:08 - [34mdebug[39m: loadFileContents
+17:35:08 - [34mdebug[39m: fromDirectory
+17:35:08 - [34mdebug[39m: fromDirectory
+17:35:08 - [34mdebug[39m: loadFilesContents
+17:35:08 - [34mdebug[39m: loadFilesContents
+17:35:08 - [34mdebug[39m: loadFilesContents
+17:35:08 - [34mdebug[39m: loadFilesContents
+17:35:08 - [34mdebug[39m: loadFilesContents
+17:35:08 - [34mdebug[39m: loadFileContents
+17:35:08 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"84f17f39-da77-4237-b666-76a268c0d6cc"}
+17:35:08 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:35:08 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:35:09 - [31merror[39m: Namespace is not defined for type org.accordproject.empty.RenovaContratoRequest
+17:35:46 - [32minfo[39m: Using current directory as template folder
+17:35:46 - [32minfo[39m: Loading a default text/sample.md file.
+17:35:46 - [32minfo[39m: Loading a default request.json file.
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: loadFileBuffer
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: fromDirectory
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: fromDirectory
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFilesContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:46 - [34mdebug[39m: loadFileContents
+17:35:47 - [34mdebug[39m: fromDirectory
+17:35:47 - [34mdebug[39m: loadFileContents
+17:35:47 - [34mdebug[39m: fromDirectory
+17:35:47 - [34mdebug[39m: fromDirectory
+17:35:47 - [34mdebug[39m: loadFilesContents
+17:35:47 - [34mdebug[39m: loadFilesContents
+17:35:47 - [34mdebug[39m: loadFilesContents
+17:35:47 - [34mdebug[39m: loadFilesContents
+17:35:47 - [34mdebug[39m: loadFilesContents
+17:35:47 - [34mdebug[39m: loadFileContents
+17:35:48 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"c239866a-14e2-4b20-814f-bb155fdcbf93"}
+17:35:48 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:35:48 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:35:48 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:35:48 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-cbb7e5c07850db45e7234bfa7f56a4cd898b8acead4fc8b146cb8998ab508d4b[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mf8371273-b2f0-459f-b205-4e40d9250594[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:35:48.032Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:36:39 - [32minfo[39m: Using current directory as template folder
+17:36:39 - [32minfo[39m: Loading a default text/sample.md file.
+17:36:39 - [32minfo[39m: Loading a default request.json file.
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: loadFileBuffer
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: fromDirectory
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: fromDirectory
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFilesContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:39 - [34mdebug[39m: loadFileContents
+17:36:40 - [34mdebug[39m: fromDirectory
+17:36:40 - [34mdebug[39m: loadFileContents
+17:36:40 - [34mdebug[39m: fromDirectory
+17:36:40 - [34mdebug[39m: fromDirectory
+17:36:40 - [34mdebug[39m: loadFilesContents
+17:36:40 - [34mdebug[39m: loadFilesContents
+17:36:40 - [34mdebug[39m: loadFilesContents
+17:36:40 - [34mdebug[39m: loadFilesContents
+17:36:40 - [34mdebug[39m: loadFilesContents
+17:36:40 - [34mdebug[39m: loadFileContents
+17:36:41 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"88f910f0-be4c-4575-a1ed-3f33dd107447"}
+17:36:41 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:36:41 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:36:41 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:36:41 - [32minfo[39m:
+[36m-12[39m
+17:36:41 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-1e8cfdbbbcd3661bb714d68b6d662091504570b3d1a053356c85a5b3359e5319[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m9bfa27e8-e0f5-413f-856c-53fd7c88bbf0[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:36:41.168Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:42:04 - [32minfo[39m: Using current directory as template folder
+17:42:04 - [32minfo[39m: Loading a default text/sample.md file.
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: loadFileBuffer
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: fromDirectory
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: fromDirectory
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFilesContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:04 - [34mdebug[39m: loadFileContents
+17:42:05 - [34mdebug[39m: fromDirectory
+17:42:05 - [34mdebug[39m: loadFileContents
+17:42:05 - [34mdebug[39m: fromDirectory
+17:42:05 - [34mdebug[39m: fromDirectory
+17:42:05 - [34mdebug[39m: loadFilesContents
+17:42:05 - [34mdebug[39m: loadFilesContents
+17:42:05 - [34mdebug[39m: loadFilesContents
+17:42:05 - [34mdebug[39m: loadFilesContents
+17:42:05 - [34mdebug[39m: loadFilesContents
+17:42:05 - [34mdebug[39m: loadFileContents
+17:42:06 - [31merror[39m: Parse error (at file logic/logic.ergo line 42 col 0). 
+
+
+17:43:40 - [32minfo[39m: Using current directory as template folder
+17:43:40 - [32minfo[39m: Loading a default text/sample.md file.
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: loadFileBuffer
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: fromDirectory
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: fromDirectory
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFilesContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:40 - [34mdebug[39m: loadFileContents
+17:43:41 - [34mdebug[39m: fromDirectory
+17:43:41 - [34mdebug[39m: loadFileContents
+17:43:41 - [34mdebug[39m: fromDirectory
+17:43:41 - [34mdebug[39m: fromDirectory
+17:43:41 - [34mdebug[39m: loadFilesContents
+17:43:41 - [34mdebug[39m: loadFilesContents
+17:43:41 - [34mdebug[39m: loadFilesContents
+17:43:41 - [34mdebug[39m: loadFilesContents
+17:43:41 - [34mdebug[39m: loadFilesContents
+17:43:41 - [34mdebug[39m: loadFileContents
+17:43:42 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"7ef02471-620e-477c-b2b6-f8495c458c65"}
+17:43:42 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m7ef02471-620e-477c-b2b6-f8495c458c65[39m[33m"[39m
+[33m}[39m
+17:43:49 - [32minfo[39m: Using current directory as template folder
+17:43:49 - [32minfo[39m: Loading a default text/sample.md file.
+17:43:49 - [32minfo[39m: Loading a default request.json file.
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: loadFileBuffer
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: fromDirectory
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: fromDirectory
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFilesContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:49 - [34mdebug[39m: loadFileContents
+17:43:50 - [34mdebug[39m: fromDirectory
+17:43:50 - [34mdebug[39m: loadFileContents
+17:43:50 - [34mdebug[39m: fromDirectory
+17:43:50 - [34mdebug[39m: fromDirectory
+17:43:50 - [34mdebug[39m: loadFilesContents
+17:43:50 - [34mdebug[39m: loadFilesContents
+17:43:50 - [34mdebug[39m: loadFilesContents
+17:43:50 - [34mdebug[39m: loadFilesContents
+17:43:50 - [34mdebug[39m: loadFilesContents
+17:43:50 - [34mdebug[39m: loadFileContents
+17:43:51 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"b414e772-6912-4793-b536-5d1f463e2e6d"}
+17:43:51 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:43:51 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:43:51 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:43:51 - [32minfo[39m:
+[36m-12[39m
+17:43:51 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-46902cfc90a08227f4d9eedba14c45cd12ea163c1f8dd5322d6d1e2b9630cbcc[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m33c2d843-6fc5-4cec-8efd-4491164367b8[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:43:51.357Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:44:12 - [32minfo[39m: Using current directory as template folder
+17:44:12 - [32minfo[39m: Loading a default text/sample.md file.
+17:44:12 - [32minfo[39m: Loading a default request.json file.
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: loadFileBuffer
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: fromDirectory
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: fromDirectory
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFilesContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:12 - [34mdebug[39m: loadFileContents
+17:44:13 - [34mdebug[39m: fromDirectory
+17:44:13 - [34mdebug[39m: loadFileContents
+17:44:13 - [34mdebug[39m: fromDirectory
+17:44:13 - [34mdebug[39m: fromDirectory
+17:44:13 - [34mdebug[39m: loadFilesContents
+17:44:13 - [34mdebug[39m: loadFilesContents
+17:44:13 - [34mdebug[39m: loadFilesContents
+17:44:13 - [34mdebug[39m: loadFilesContents
+17:44:13 - [34mdebug[39m: loadFilesContents
+17:44:13 - [34mdebug[39m: loadFileContents
+17:44:13 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"528b7026-e6fc-4a4c-adbb-5266a298d7c4"}
+17:44:13 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:44:13 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:44:13 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:44:13 - [32minfo[39m:
+[36m-377[39m
+17:44:13 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-9c6acc66d7082bc321f09a16fa9d5f871c237c87be404d4c6ed970a9beb359de[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m238ff6c9-9408-4399-bee7-3602a93cdb12[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:44:13.938Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:46:51 - [32minfo[39m: Using current directory as template folder
+17:46:51 - [32minfo[39m: Loading a default text/sample.md file.
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: loadFileBuffer
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: fromDirectory
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: fromDirectory
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFilesContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:51 - [34mdebug[39m: loadFileContents
+17:46:52 - [34mdebug[39m: fromDirectory
+17:46:52 - [34mdebug[39m: loadFileContents
+17:46:52 - [34mdebug[39m: fromDirectory
+17:46:52 - [34mdebug[39m: fromDirectory
+17:46:52 - [34mdebug[39m: loadFilesContents
+17:46:52 - [34mdebug[39m: loadFilesContents
+17:46:52 - [34mdebug[39m: loadFilesContents
+17:46:52 - [34mdebug[39m: loadFilesContents
+17:46:52 - [34mdebug[39m: loadFilesContents
+17:46:52 - [34mdebug[39m: loadFileContents
+17:46:53 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"e03708f7-2605-4220-a7d0-8429ffb6918d"}
+17:46:53 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35me03708f7-2605-4220-a7d0-8429ffb6918d[39m[33m"[39m
+[33m}[39m
+17:47:04 - [32minfo[39m: Using current directory as template folder
+17:47:04 - [32minfo[39m: Loading a default text/sample.md file.
+17:47:04 - [32minfo[39m: Loading a default request.json file.
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: loadFileBuffer
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: fromDirectory
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: fromDirectory
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFilesContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:04 - [34mdebug[39m: loadFileContents
+17:47:05 - [34mdebug[39m: fromDirectory
+17:47:05 - [34mdebug[39m: loadFileContents
+17:47:05 - [34mdebug[39m: fromDirectory
+17:47:05 - [34mdebug[39m: fromDirectory
+17:47:05 - [34mdebug[39m: loadFilesContents
+17:47:05 - [34mdebug[39m: loadFilesContents
+17:47:05 - [34mdebug[39m: loadFilesContents
+17:47:05 - [34mdebug[39m: loadFilesContents
+17:47:05 - [34mdebug[39m: loadFilesContents
+17:47:05 - [34mdebug[39m: loadFileContents
+17:47:06 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"98f46a86-3f04-47b1-8d87-556f608d7f61"}
+17:47:06 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:47:06 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:47:06 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:47:06 - [32minfo[39m:
+[36m-377[39m
+17:47:06 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-52dead080117f682acc3ee986e19d41d6005edbaeeb73f0d08ea761a44494e88[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m1019adef-4b5b-46df-a57c-45f6ca18ce78[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:47:06.224Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:48:02 - [32minfo[39m: Using current directory as template folder
+17:48:02 - [32minfo[39m: Loading a default text/sample.md file.
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: loadFileBuffer
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: fromDirectory
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: fromDirectory
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFilesContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:02 - [34mdebug[39m: loadFileContents
+17:48:03 - [34mdebug[39m: fromDirectory
+17:48:03 - [34mdebug[39m: loadFileContents
+17:48:03 - [34mdebug[39m: fromDirectory
+17:48:03 - [34mdebug[39m: fromDirectory
+17:48:03 - [34mdebug[39m: loadFilesContents
+17:48:03 - [34mdebug[39m: loadFilesContents
+17:48:03 - [34mdebug[39m: loadFilesContents
+17:48:03 - [34mdebug[39m: loadFilesContents
+17:48:03 - [34mdebug[39m: loadFilesContents
+17:48:03 - [34mdebug[39m: loadFileContents
+17:48:04 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"8db73bb4-baa8-4be3-8665-a8b7c3af282b"}
+17:48:04 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m8db73bb4-baa8-4be3-8665-a8b7c3af282b[39m[33m"[39m
+[33m}[39m
+17:48:09 - [32minfo[39m: Using current directory as template folder
+17:48:09 - [32minfo[39m: Loading a default text/sample.md file.
+17:48:09 - [32minfo[39m: Loading a default request.json file.
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: loadFileBuffer
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: fromDirectory
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: fromDirectory
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFilesContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:09 - [34mdebug[39m: loadFileContents
+17:48:10 - [34mdebug[39m: fromDirectory
+17:48:10 - [34mdebug[39m: loadFileContents
+17:48:10 - [34mdebug[39m: fromDirectory
+17:48:10 - [34mdebug[39m: fromDirectory
+17:48:10 - [34mdebug[39m: loadFilesContents
+17:48:10 - [34mdebug[39m: loadFilesContents
+17:48:10 - [34mdebug[39m: loadFilesContents
+17:48:10 - [34mdebug[39m: loadFilesContents
+17:48:10 - [34mdebug[39m: loadFilesContents
+17:48:10 - [34mdebug[39m: loadFileContents
+17:48:11 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"37f5d008-e08a-40ea-9cbe-a753171f59a4"}
+17:48:11 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:48:11 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:48:11 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:48:11 - [32minfo[39m:
+[36m-377[39m
+17:48:11 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-49581b18034528075fb9b5cf2927b95b27a234410627fe28f0886227bdb86f65[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35maf72506b-e114-45fb-b06a-da8a7b7bf516[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:48:11.413Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:49:14 - [32minfo[39m: Using current directory as template folder
+17:49:14 - [32minfo[39m: Loading a default text/sample.md file.
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: loadFileBuffer
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: fromDirectory
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: fromDirectory
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFilesContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:14 - [34mdebug[39m: loadFileContents
+17:49:15 - [34mdebug[39m: fromDirectory
+17:49:15 - [34mdebug[39m: loadFileContents
+17:49:15 - [34mdebug[39m: fromDirectory
+17:49:15 - [34mdebug[39m: fromDirectory
+17:49:15 - [34mdebug[39m: loadFilesContents
+17:49:15 - [34mdebug[39m: loadFilesContents
+17:49:15 - [34mdebug[39m: loadFilesContents
+17:49:15 - [34mdebug[39m: loadFilesContents
+17:49:15 - [34mdebug[39m: loadFilesContents
+17:49:15 - [34mdebug[39m: loadFileContents
+17:49:16 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"b0cf6c9f-dcf2-4e81-a94d-704fc52b0852"}
+17:49:16 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35mb0cf6c9f-dcf2-4e81-a94d-704fc52b0852[39m[33m"[39m
+[33m}[39m
+17:49:21 - [32minfo[39m: Using current directory as template folder
+17:49:21 - [32minfo[39m: Loading a default text/sample.md file.
+17:49:21 - [32minfo[39m: Loading a default request.json file.
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: loadFileBuffer
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: fromDirectory
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: fromDirectory
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFilesContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:21 - [34mdebug[39m: loadFileContents
+17:49:22 - [34mdebug[39m: fromDirectory
+17:49:22 - [34mdebug[39m: loadFileContents
+17:49:22 - [34mdebug[39m: fromDirectory
+17:49:22 - [34mdebug[39m: fromDirectory
+17:49:22 - [34mdebug[39m: loadFilesContents
+17:49:22 - [34mdebug[39m: loadFilesContents
+17:49:22 - [34mdebug[39m: loadFilesContents
+17:49:22 - [34mdebug[39m: loadFilesContents
+17:49:22 - [34mdebug[39m: loadFilesContents
+17:49:22 - [34mdebug[39m: loadFileContents
+17:49:23 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"54519b36-cf7d-48e6-aac9-6e6c1d007b79"}
+17:49:23 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:49:23 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:49:23 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:49:23 - [32minfo[39m:
+[36m376[39m
+17:49:23 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-f6f2f19e8cc3e90a1dc07e27405566f571b5825195efa0e2613b6633ab200633[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mNo[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35md8d38346-e206-41ac-9311-22f51e4e999e[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:49:23.639Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:49:49 - [32minfo[39m: Using current directory as template folder
+17:49:49 - [32minfo[39m: Loading a default text/sample.md file.
+17:49:49 - [32minfo[39m: Loading a default request.json file.
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: loadFileBuffer
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: fromDirectory
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: fromDirectory
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFilesContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:49 - [34mdebug[39m: loadFileContents
+17:49:50 - [34mdebug[39m: fromDirectory
+17:49:50 - [34mdebug[39m: loadFileContents
+17:49:50 - [34mdebug[39m: fromDirectory
+17:49:50 - [34mdebug[39m: fromDirectory
+17:49:50 - [34mdebug[39m: loadFilesContents
+17:49:50 - [34mdebug[39m: loadFilesContents
+17:49:50 - [34mdebug[39m: loadFilesContents
+17:49:50 - [34mdebug[39m: loadFilesContents
+17:49:50 - [34mdebug[39m: loadFilesContents
+17:49:50 - [34mdebug[39m: loadFileContents
+17:49:51 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"40eb9756-87af-4566-8ce6-5783d26d791d"}
+17:49:51 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:49:51 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:49:51 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:49:51 - [32minfo[39m:
+[36m11[39m
+17:49:51 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-0864d7bf29df75bb5df4ebacbfd69dcfca4e00564ee7c3d8af99c57b4dc9a3e3[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-24[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m2e87da7a-76ea-42f7-944a-de44ad47c278[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:49:51.037Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:50:06 - [32minfo[39m: Using current directory as template folder
+17:50:06 - [32minfo[39m: Loading a default text/sample.md file.
+17:50:06 - [32minfo[39m: Loading a default request.json file.
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: loadFileBuffer
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: fromDirectory
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: fromDirectory
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFilesContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:06 - [34mdebug[39m: loadFileContents
+17:50:07 - [34mdebug[39m: fromDirectory
+17:50:07 - [34mdebug[39m: loadFileContents
+17:50:07 - [34mdebug[39m: fromDirectory
+17:50:07 - [34mdebug[39m: fromDirectory
+17:50:07 - [34mdebug[39m: loadFilesContents
+17:50:07 - [34mdebug[39m: loadFilesContents
+17:50:07 - [34mdebug[39m: loadFilesContents
+17:50:07 - [34mdebug[39m: loadFilesContents
+17:50:07 - [34mdebug[39m: loadFilesContents
+17:50:07 - [34mdebug[39m: loadFileContents
+17:50:08 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"0f343545-071e-41b0-b067-e3459d0ab31d"}
+17:50:08 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:50:08 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:50:08 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:50:08 - [31merror[39m: [Ergo] A data de renovação do contrato não pode ser antes da data atual
+17:52:30 - [32minfo[39m: Using current directory as template folder
+17:52:30 - [32minfo[39m: Loading a default text/sample.md file.
+17:52:30 - [32minfo[39m: Loading a default request.json file.
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: loadFileBuffer
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: fromDirectory
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: fromDirectory
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFilesContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:30 - [34mdebug[39m: loadFileContents
+17:52:31 - [34mdebug[39m: fromDirectory
+17:52:31 - [34mdebug[39m: loadFileContents
+17:52:31 - [34mdebug[39m: fromDirectory
+17:52:31 - [34mdebug[39m: fromDirectory
+17:52:31 - [34mdebug[39m: loadFilesContents
+17:52:31 - [34mdebug[39m: loadFilesContents
+17:52:31 - [34mdebug[39m: loadFilesContents
+17:52:31 - [34mdebug[39m: loadFilesContents
+17:52:31 - [34mdebug[39m: loadFilesContents
+17:52:31 - [34mdebug[39m: loadFileContents
+17:52:32 - [31merror[39m: Type error (at file logic/logic.ergo line 35 col 46). This operator received unexpected arguments of type `String'  and `DateTime'.
+      return RenovaContratoResponse{message : "A data de renovação deste contrato é a " ++ renewal ++ ", pelo que ainda não foi realizado nenhum alerta"}
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                                                        
+17:55:22 - [32minfo[39m: Using current directory as template folder
+17:55:22 - [32minfo[39m: Loading a default text/sample.md file.
+17:55:22 - [32minfo[39m: Loading a default request.json file.
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: loadFileBuffer
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: fromDirectory
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: fromDirectory
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFilesContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:22 - [34mdebug[39m: loadFileContents
+17:55:23 - [34mdebug[39m: fromDirectory
+17:55:23 - [34mdebug[39m: loadFileContents
+17:55:23 - [34mdebug[39m: fromDirectory
+17:55:23 - [34mdebug[39m: fromDirectory
+17:55:23 - [34mdebug[39m: loadFilesContents
+17:55:23 - [34mdebug[39m: loadFilesContents
+17:55:23 - [34mdebug[39m: loadFilesContents
+17:55:23 - [34mdebug[39m: loadFilesContents
+17:55:23 - [34mdebug[39m: loadFilesContents
+17:55:23 - [34mdebug[39m: loadFileContents
+17:55:24 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"ea92b98e-8eb6-47d7-a051-b9cf4b6e5264"}
+17:55:24 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:55:24 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:55:24 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:55:24 - [32minfo[39m:
+[36m363[39m
+17:55:24 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-0db4439e41b06868892c42bffaed8d9c27299a7de6031055a07b75990247fb9c[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-11[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mA data de renovação deste contrato é a 04/11/2022, pelo que ainda não foi realizado nenhum alerta[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m73046475-0a64-4c1e-9ebd-e633b84ad8a4[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-12T16:55:24.759Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+11:41:43 - [32minfo[39m: Using current directory as template folder
+11:41:43 - [32minfo[39m: Loading a default text/sample.md file.
+11:41:43 - [32minfo[39m: Loading a default request.json file.
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: loadFileBuffer
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: fromDirectory
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: fromDirectory
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFilesContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:43 - [34mdebug[39m: loadFileContents
+11:41:44 - [34mdebug[39m: fromDirectory
+11:41:44 - [34mdebug[39m: loadFileContents
+11:41:44 - [34mdebug[39m: fromDirectory
+11:41:44 - [34mdebug[39m: fromDirectory
+11:41:44 - [34mdebug[39m: loadFilesContents
+11:41:44 - [34mdebug[39m: loadFilesContents
+11:41:44 - [34mdebug[39m: loadFilesContents
+11:41:44 - [34mdebug[39m: loadFilesContents
+11:41:44 - [34mdebug[39m: loadFilesContents
+11:41:44 - [34mdebug[39m: loadFileContents
+11:41:45 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"4422866b-373f-4292-b35c-68e137aa04f8"}
+11:41:45 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:41:45 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:41:45 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+11:41:45 - [32minfo[39m:
+[36m361[39m
+11:41:45 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-92041c4ebc1020b907cd5cbb8051446ef4aa9a316817108184a3faaa4518d714[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-11[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mA data de renovação deste contrato é a 04/11/2022, pelo que ainda não foi realizado nenhum alerta[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35me4bcf4ad-794d-4869-a467-96498bc697c7[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-14T10:41:45.700Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+11:46:22 - [32minfo[39m: Using current directory as template folder
+11:46:22 - [32minfo[39m: Loading a default text/sample.md file.
+11:46:22 - [32minfo[39m: Loading a default request.json file.
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: loadFileBuffer
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: fromDirectory
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: fromDirectory
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFilesContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:22 - [34mdebug[39m: loadFileContents
+11:46:24 - [34mdebug[39m: fromDirectory
+11:46:24 - [34mdebug[39m: loadFileContents
+11:46:24 - [34mdebug[39m: fromDirectory
+11:46:24 - [34mdebug[39m: fromDirectory
+11:46:24 - [34mdebug[39m: loadFilesContents
+11:46:24 - [34mdebug[39m: loadFilesContents
+11:46:24 - [34mdebug[39m: loadFilesContents
+11:46:24 - [34mdebug[39m: loadFilesContents
+11:46:24 - [34mdebug[39m: loadFilesContents
+11:46:24 - [34mdebug[39m: loadFileContents
+11:46:25 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"fae0c793-e724-475d-812b-d52a5637f9f8"}
+11:46:25 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:46:25 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:46:25 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+11:46:25 - [31merror[39m: [Ergo] A data de renovação do contrato não pode ser antes da data atual
+11:54:29 - [32minfo[39m: Using current directory as template folder
+11:54:29 - [32minfo[39m: Loading a default text/sample.md file.
+11:54:29 - [32minfo[39m: Loading a default request.json file.
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: loadFileBuffer
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: fromDirectory
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: fromDirectory
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFilesContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:29 - [34mdebug[39m: loadFileContents
+11:54:30 - [34mdebug[39m: fromDirectory
+11:54:30 - [34mdebug[39m: loadFileContents
+11:54:30 - [34mdebug[39m: fromDirectory
+11:54:30 - [34mdebug[39m: fromDirectory
+11:54:30 - [34mdebug[39m: loadFilesContents
+11:54:30 - [34mdebug[39m: loadFilesContents
+11:54:30 - [34mdebug[39m: loadFilesContents
+11:54:30 - [34mdebug[39m: loadFilesContents
+11:54:30 - [34mdebug[39m: loadFilesContents
+11:54:30 - [34mdebug[39m: loadFileContents
+11:54:31 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"346e436a-c5da-46b7-852c-76b27614ad7b"}
+11:54:31 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+11:54:31 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+11:54:31 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+11:54:31 - [32minfo[39m:
+[36m1457[39m
+11:54:31 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-f7f1e1164826f66e3428ef8d9d3c1c9e2fc45cc4c21e4ce0da26d27c59394b6c[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2025-04-11[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mA data de renovação deste contrato é a 04/11/2025, pelo que ainda não foi realizado nenhum alerta[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m230776ce-9979-4745-8381-052071dfc724[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-14T10:54:31.317Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+12:17:29 - [32minfo[39m: Using current directory as template folder
+12:17:29 - [32minfo[39m: Loading a default text/sample.md file.
+12:17:29 - [32minfo[39m: Loading a default request.json file.
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileBuffer
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: fromDirectory
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: fromDirectory
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFilesContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:29 - [34mdebug[39m: loadFileContents
+12:17:31 - [34mdebug[39m: fromDirectory
+12:17:31 - [34mdebug[39m: loadFileContents
+12:17:31 - [34mdebug[39m: fromDirectory
+12:17:31 - [34mdebug[39m: fromDirectory
+12:17:31 - [34mdebug[39m: loadFilesContents
+12:17:31 - [34mdebug[39m: loadFilesContents
+12:17:31 - [34mdebug[39m: loadFilesContents
+12:17:31 - [34mdebug[39m: loadFilesContents
+12:17:31 - [34mdebug[39m: loadFilesContents
+12:17:31 - [34mdebug[39m: loadFileContents
+12:17:33 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"78eadb94-bc14-4e23-9d21-af61b995dc4e"}
+12:17:33 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+12:17:33 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+12:17:33 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+12:17:33 - [32minfo[39m:
+[36m6[39m
+12:17:34 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-846ea0ff55037c9a9f7efd00dc26ab15e48471d9880f0961325ccdb9c75d5bc6[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mb25b0c3d-9a33-4948-8f34-128bbc7a9e7d[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-14T11:17:34.018Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+17:29:24 - [32minfo[39m: Using current directory as template folder
+17:29:24 - [32minfo[39m: Loading a default text/sample.md file.
+17:29:24 - [32minfo[39m: Loading a default request.json file.
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: loadFileBuffer
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: fromDirectory
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: fromDirectory
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFilesContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:24 - [34mdebug[39m: loadFileContents
+17:29:25 - [34mdebug[39m: fromDirectory
+17:29:25 - [34mdebug[39m: loadFileContents
+17:29:25 - [34mdebug[39m: fromDirectory
+17:29:25 - [34mdebug[39m: fromDirectory
+17:29:25 - [34mdebug[39m: loadFilesContents
+17:29:25 - [34mdebug[39m: loadFilesContents
+17:29:25 - [34mdebug[39m: loadFilesContents
+17:29:25 - [34mdebug[39m: loadFilesContents
+17:29:25 - [34mdebug[39m: loadFilesContents
+17:29:25 - [34mdebug[39m: loadFileContents
+17:29:27 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"2a1fa48c-5430-4bae-98e7-06fa4f708da8"}
+17:29:27 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:29:27 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:29:27 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:29:27 - [31merror[39m: [Ergo] A data de renovação do contrato não pode ser antes da data atual
+17:29:45 - [32minfo[39m: Using current directory as template folder
+17:29:45 - [32minfo[39m: Loading a default text/sample.md file.
+17:29:45 - [32minfo[39m: Loading a default request.json file.
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: loadFileBuffer
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: fromDirectory
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: fromDirectory
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFilesContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:45 - [34mdebug[39m: loadFileContents
+17:29:46 - [34mdebug[39m: fromDirectory
+17:29:46 - [34mdebug[39m: loadFileContents
+17:29:46 - [34mdebug[39m: fromDirectory
+17:29:46 - [34mdebug[39m: fromDirectory
+17:29:46 - [34mdebug[39m: loadFilesContents
+17:29:46 - [34mdebug[39m: loadFilesContents
+17:29:46 - [34mdebug[39m: loadFilesContents
+17:29:46 - [34mdebug[39m: loadFilesContents
+17:29:46 - [34mdebug[39m: loadFilesContents
+17:29:46 - [34mdebug[39m: loadFileContents
+17:29:48 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"984a31fd-391f-49db-bcc1-d8da1eef1418"}
+17:29:48 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+17:29:48 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+17:29:48 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+17:29:48 - [32minfo[39m:
+[36m6[39m
+17:29:48 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-d9efde0d7c75ba0b9adaa427034e4ccee45edd3966f18e5b1c9f9a4473807e1f[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mfc872c7c-c0b1-4b45-9734-947dfcc81a22[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-14T16:29:48.528Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+09:41:55 - [32minfo[39m: Using current directory as template folder
+09:41:55 - [32minfo[39m: Loading a default text/sample.md file.
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: loadFileBuffer
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: fromDirectory
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: fromDirectory
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFilesContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:55 - [34mdebug[39m: loadFileContents
+09:41:56 - [34mdebug[39m: fromDirectory
+09:41:56 - [34mdebug[39m: loadFileContents
+09:41:56 - [34mdebug[39m: fromDirectory
+09:41:56 - [34mdebug[39m: fromDirectory
+09:41:56 - [34mdebug[39m: loadFilesContents
+09:41:56 - [34mdebug[39m: loadFilesContents
+09:41:56 - [34mdebug[39m: loadFilesContents
+09:41:56 - [34mdebug[39m: loadFilesContents
+09:41:56 - [34mdebug[39m: loadFilesContents
+09:41:56 - [34mdebug[39m: loadFileContents
+09:41:57 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"894b283f-c615-4973-8213-a0cce7ffca7d"}
+09:41:57 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m894b283f-c615-4973-8213-a0cce7ffca7d[39m[33m"[39m
+[33m}[39m
+14:53:11 - [32minfo[39m: Using current directory as template folder
+14:53:11 - [32minfo[39m: Loading a default text/sample.md file.
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: loadFileBuffer
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: fromDirectory
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: fromDirectory
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: fromDirectory
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:11 - [34mdebug[39m: fromDirectory
+14:53:11 - [34mdebug[39m: fromDirectory
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFilesContents
+14:53:11 - [34mdebug[39m: loadFileContents
+14:53:12 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Empresa A","client":"Cliente","contractDuration":2,"clauseId":"b0488b00-66a5-4797-a1de-519777cd983c"}
+14:53:12 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mEmpresa A[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35mb0488b00-66a5-4797-a1de-519777cd983c[39m[33m"[39m
+[33m}[39m
+14:53:58 - [32minfo[39m: Using current directory as template folder
+14:53:58 - [32minfo[39m: Loading a default text/sample.md file.
+14:53:58 - [34mdebug[39m: loadFileContents
+14:53:58 - [34mdebug[39m: loadFileBuffer
+14:53:58 - [34mdebug[39m: loadFileContents
+14:53:58 - [34mdebug[39m: loadFileContents
+14:53:58 - [34mdebug[39m: fromDirectory
+14:53:58 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: fromDirectory
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: fromDirectory
+14:53:59 - [34mdebug[39m: loadFileContents
+14:53:59 - [34mdebug[39m: fromDirectory
+14:53:59 - [34mdebug[39m: fromDirectory
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFilesContents
+14:53:59 - [34mdebug[39m: loadFileContents
+14:54:00 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"8adbac5c-0169-4513-a389-6d542a49364b"}
+14:54:00 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32msupplier[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m8adbac5c-0169-4513-a389-6d542a49364b[39m[33m"[39m
+[33m}[39m
+14:56:30 - [32minfo[39m: Using current directory as template folder
+14:56:30 - [32minfo[39m: Loading a default text/sample.md file.
+14:56:30 - [32minfo[39m: Loading a default request.json file.
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: loadFileBuffer
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: fromDirectory
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: fromDirectory
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: fromDirectory
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:30 - [34mdebug[39m: fromDirectory
+14:56:30 - [34mdebug[39m: fromDirectory
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFilesContents
+14:56:30 - [34mdebug[39m: loadFileContents
+14:56:31 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"6f844d7c-77db-4729-8e7d-ad707bfe6f13"}
+14:56:31 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+14:56:31 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+14:56:31 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+14:56:31 - [32minfo[39m:
+[36m4[39m
+14:56:31 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-740da1535e227b733b59409c7444a376ee10be950b9823086a8c0462fcb5472b[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35mf041c128-88cb-463d-8c7f-05528efa1990[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T13:56:31.400Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+14:57:02 - [32minfo[39m: Using current directory as template folder
+14:57:02 - [32minfo[39m: Loading a default text/sample.md file.
+14:57:02 - [32minfo[39m: Loading a default request.json file.
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: loadFileBuffer
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: fromDirectory
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: fromDirectory
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: fromDirectory
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:02 - [34mdebug[39m: fromDirectory
+14:57:02 - [34mdebug[39m: fromDirectory
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFilesContents
+14:57:02 - [34mdebug[39m: loadFileContents
+14:57:03 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","supplier":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"8ce978cb-348c-487b-a469-03892aac67ab"}
+14:57:03 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+14:57:03 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+14:57:03 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+14:57:03 - [32minfo[39m:
+[36m369[39m
+14:57:03 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-23dbc90b80016c0d1be29d068971dca02d1b445827acef401085a6d071b1f0e1[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mA data de renovação deste contrato é a 04/21/2022, pelo que ainda não foi realizado nenhum alerta[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m92fa8bad-b92e-4e20-baa4-b5001a9bb1ef[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-04-16T13:57:03.843Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+15:58:53 - [32minfo[39m: Using current directory as template folder
+15:58:53 - [32minfo[39m: Loading a default text/sample.md file.
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: loadFileBuffer
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: fromDirectory
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: fromDirectory
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFilesContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:53 - [34mdebug[39m: loadFileContents
+15:58:55 - [34mdebug[39m: fromDirectory
+15:58:55 - [34mdebug[39m: loadFileContents
+15:58:55 - [34mdebug[39m: fromDirectory
+15:58:55 - [34mdebug[39m: fromDirectory
+15:58:55 - [34mdebug[39m: loadFilesContents
+15:58:55 - [34mdebug[39m: loadFilesContents
+15:58:55 - [34mdebug[39m: loadFilesContents
+15:58:55 - [34mdebug[39m: loadFilesContents
+15:58:55 - [34mdebug[39m: loadFilesContents
+15:58:55 - [34mdebug[39m: loadFileContents
+15:58:56 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","empresa":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"5116ac75-d620-4775-9b61-e5910edb888f"}
+15:58:56 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mempresa[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m5116ac75-d620-4775-9b61-e5910edb888f[39m[33m"[39m
+[33m}[39m
+15:59:02 - [32minfo[39m: Using current directory as template folder
+15:59:02 - [32minfo[39m: Loading a default text/sample.md file.
+15:59:02 - [32minfo[39m: Loading a default request.json file.
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: loadFileBuffer
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: fromDirectory
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: fromDirectory
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFilesContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:02 - [34mdebug[39m: loadFileContents
+15:59:04 - [34mdebug[39m: fromDirectory
+15:59:04 - [34mdebug[39m: loadFileContents
+15:59:04 - [34mdebug[39m: fromDirectory
+15:59:04 - [34mdebug[39m: fromDirectory
+15:59:04 - [34mdebug[39m: loadFilesContents
+15:59:04 - [34mdebug[39m: loadFilesContents
+15:59:04 - [34mdebug[39m: loadFilesContents
+15:59:04 - [34mdebug[39m: loadFilesContents
+15:59:04 - [34mdebug[39m: loadFilesContents
+15:59:04 - [34mdebug[39m: loadFileContents
+15:59:05 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","empresa":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"05fbc350-2a62-4d39-a6dc-8c5eb5256d85"}
+15:59:05 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+15:59:05 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+15:59:05 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+15:59:05 - [32minfo[39m:
+[36m351[39m
+15:59:05 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-e2461f499f3999884e4836a55fbebf5b32a9c47d934930dc29ccff3509556193[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mA data de renovação deste contrato é a 04/21/2022, pelo que ainda não foi realizado nenhum alerta[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m504af236-44c3-444d-8bdc-ea9026976df9[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-04T14:59:05.446Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+16:13:10 - [32minfo[39m: Using current directory as template folder
+16:13:10 - [32minfo[39m: Loading a default text/sample.md file.
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: loadFileBuffer
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: fromDirectory
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: fromDirectory
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFilesContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:10 - [34mdebug[39m: loadFileContents
+16:13:12 - [34mdebug[39m: fromDirectory
+16:13:12 - [34mdebug[39m: loadFileContents
+16:13:12 - [34mdebug[39m: fromDirectory
+16:13:12 - [34mdebug[39m: fromDirectory
+16:13:12 - [34mdebug[39m: loadFilesContents
+16:13:12 - [34mdebug[39m: loadFilesContents
+16:13:12 - [34mdebug[39m: loadFilesContents
+16:13:12 - [34mdebug[39m: loadFilesContents
+16:13:12 - [34mdebug[39m: loadFilesContents
+16:13:12 - [34mdebug[39m: loadFileContents
+16:13:13 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","empresa":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"3196f35f-43b4-4e16-997a-4cb2abc6b127"}
+16:13:13 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaClause[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mempresa[39m[33m"[39m[33m: [39m[33m"[39m[35mDigital Sign[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mclient[39m[33m"[39m[33m: [39m[33m"[39m[35mCliente[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mcontractDuration[39m[33m"[39m[33m: [39m[36m2[39m[33m,[39m
+  [33m"[39m[32mclauseId[39m[33m"[39m[33m: [39m[33m"[39m[35m3196f35f-43b4-4e16-997a-4cb2abc6b127[39m[33m"[39m
+[33m}[39m
+16:14:37 - [32minfo[39m: Using current directory as template folder
+16:14:37 - [32minfo[39m: Loading a default text/sample.md file.
+16:14:37 - [32minfo[39m: Loading a default request.json file.
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: loadFileBuffer
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: fromDirectory
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: fromDirectory
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFilesContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:37 - [34mdebug[39m: loadFileContents
+16:14:39 - [34mdebug[39m: fromDirectory
+16:14:39 - [34mdebug[39m: loadFileContents
+16:14:39 - [34mdebug[39m: fromDirectory
+16:14:39 - [34mdebug[39m: fromDirectory
+16:14:39 - [34mdebug[39m: loadFilesContents
+16:14:39 - [34mdebug[39m: loadFilesContents
+16:14:39 - [34mdebug[39m: loadFilesContents
+16:14:39 - [34mdebug[39m: loadFilesContents
+16:14:39 - [34mdebug[39m: loadFilesContents
+16:14:39 - [34mdebug[39m: loadFileContents
+16:14:39 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","empresa":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"a3bcbad2-1678-44aa-b248-1a50addde8a1"}
+16:14:39 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+16:14:39 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+16:14:39 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+16:14:39 - [31merror[39m: [Ergo] A data de renovação do contrato não pode ser antes da data atual
+16:15:47 - [32minfo[39m: Using current directory as template folder
+16:15:47 - [32minfo[39m: Loading a default text/sample.md file.
+16:15:47 - [32minfo[39m: Loading a default request.json file.
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: loadFileBuffer
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: fromDirectory
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: fromDirectory
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFilesContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:47 - [34mdebug[39m: loadFileContents
+16:15:49 - [34mdebug[39m: fromDirectory
+16:15:49 - [34mdebug[39m: loadFileContents
+16:15:49 - [34mdebug[39m: fromDirectory
+16:15:49 - [34mdebug[39m: fromDirectory
+16:15:49 - [34mdebug[39m: loadFilesContents
+16:15:49 - [34mdebug[39m: loadFilesContents
+16:15:49 - [34mdebug[39m: loadFilesContents
+16:15:49 - [34mdebug[39m: loadFilesContents
+16:15:49 - [34mdebug[39m: loadFilesContents
+16:15:49 - [34mdebug[39m: loadFileContents
+16:15:50 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","empresa":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"6dff5181-c330-4743-9f5d-9db628eedb92"}
+16:15:50 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+16:15:50 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+16:15:50 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+16:15:50 - [32minfo[39m:
+[36m351[39m
+16:15:50 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-7c316fefd9d3fb0daee6fcba230295a4b037d5c06527fbb03aa4a2fa648c81cb[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2022-04-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mA data de renovação deste contrato é a 04/21/2022, pelo que ainda não foi realizado nenhum alerta[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m063e9444-5608-4997-88c1-a2561083d390[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-04T15:15:50.223Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m
+16:17:13 - [32minfo[39m: Using current directory as template folder
+16:17:13 - [32minfo[39m: Loading a default text/sample.md file.
+16:17:13 - [32minfo[39m: Loading a default request.json file.
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: loadFileBuffer
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: fromDirectory
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: fromDirectory
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFilesContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:13 - [34mdebug[39m: loadFileContents
+16:17:15 - [34mdebug[39m: fromDirectory
+16:17:15 - [34mdebug[39m: loadFileContents
+16:17:15 - [34mdebug[39m: fromDirectory
+16:17:15 - [34mdebug[39m: fromDirectory
+16:17:15 - [34mdebug[39m: loadFilesContents
+16:17:15 - [34mdebug[39m: loadFilesContents
+16:17:15 - [34mdebug[39m: loadFilesContents
+16:17:15 - [34mdebug[39m: loadFilesContents
+16:17:15 - [34mdebug[39m: loadFilesContents
+16:17:15 - [34mdebug[39m: loadFileContents
+16:17:16 - [34mdebug[39m: Setting clause data: {"$class":"org.accordproject.renovacontrato.RenovaClause","empresa":"Digital Sign","client":"Cliente","contractDuration":2,"clauseId":"341234cb-9880-4441-9caf-326f992a989c"}
+16:17:16 - [33mwarn[39m: A state file was not provided, initializing state. Try the --state flag or create a state.json in the root folder of your template.
+16:17:16 - [34mdebug[39m: Engine processing clause init with state org.accordproject.cicero.contract.AccordContractState
+16:17:16 - [34mdebug[39m: Engine processing request org.accordproject.renovacontrato.RenovaContratoRequest with state org.accordproject.cicero.contract.AccordContractState
+16:17:16 - [32minfo[39m:
+[36m16[39m
+16:17:16 - [32minfo[39m:
+[33m{[39m
+  [33m"[39m[32mclause[39m[33m"[39m[33m: [39m[33m"[39m[35mrenovacontrato@0.0.1-b729525f9b56441430d9069cc1b869dd9c5d3fa8a4942a47a2bb529ba1e17c6d[39m[33m"[39m[33m,[39m
+  [33m"[39m[32mrequest[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoRequest[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mrenewalDate[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-21[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mresponse[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.renovacontrato.RenovaContratoResponse[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mmessage[39m[33m"[39m[33m: [39m[33m"[39m[35mO contrato de Cliente vai acabar em breve e deve ser renovado[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtransactionId[39m[33m"[39m[33m: [39m[33m"[39m[35m15218c52-7daf-4f6d-b785-b16ca5dc71a7[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mtimestamp[39m[33m"[39m[33m: [39m[33m"[39m[35m2021-05-04T15:17:16.190Z[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32mstate[39m[33m"[39m[33m: [39m[33m{[39m
+    [33m"[39m[32m$class[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState[39m[33m"[39m[33m,[39m
+    [33m"[39m[32mstateId[39m[33m"[39m[33m: [39m[33m"[39m[35morg.accordproject.cicero.contract.AccordContractState#1[39m[33m"[39m
+  [33m}[39m[33m,[39m
+  [33m"[39m[32memit[39m[33m"[39m[33m: [39m[33m[[39m[33m][39m
+[33m}[39m

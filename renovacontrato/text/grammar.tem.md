@@ -1,0 +1,1 @@
+A {{empresa}} realiza um contrato com o {{client}} com a duração de {{contractDuration}} anos.

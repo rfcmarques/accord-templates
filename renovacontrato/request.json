@@ -1,0 +1,4 @@
+{
+    "$class":"org.accordproject.renovacontrato.RenovaContratoRequest",
+    "renewalDate": "2021-05-21"
+}

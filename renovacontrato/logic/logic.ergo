@@ -1,0 +1,42 @@
+/*
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+namespace org.accordproject.renovacontrato
+
+import org.accordproject.cicero.runtime.*
+import org.accordproject.time.*
+
+contract RenovaContrato over RenovaClause {
+  clause renova(request : RenovaContratoRequest) : RenovaContratoResponse {
+    
+    let renewal = request.renewalDate;
+
+    // Uma regra para evitar que a data fornecida aconteça antes da data atual
+	  enforce isBefore(now(),renewal) else
+	  throw ErgoErrorResponse{ message : "A data de renovação do contrato não pode ser antes da data atual"};
+    
+    // Uma variável baseada no número de dias entre a data atual e a data de renovação
+    let diff = diffDurationAs(renewal,now(),~org.accordproject.time.TemporalUnit.days).amount;
+    
+    info(diff);
+
+    // Uma condição na qual é decidido se o contrato deve ser renovado ou não
+    if diff <= 31 then 
+      return RenovaContratoResponse{message : "O contrato de " ++ contract.client ++ " vai acabar em breve e deve ser renovado"}
+    else 
+      return RenovaContratoResponse{message : "A data de renovação deste contrato é a " ++ 
+      toString(renewal) ++ 
+      ", pelo que ainda não foi realizado nenhum alerta"}
+  }
+}

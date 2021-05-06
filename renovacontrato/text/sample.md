@@ -1,0 +1,1 @@
+A "Digital Sign" realiza um contrato com o "Cliente" com a duração de 2 anos.
